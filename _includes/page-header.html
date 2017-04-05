@@ -1,9 +1,23 @@
 <section class="page-header">
-  <h1 class="project-name">{{ site.title }}</h1>
-  <h2 class="project-tagline">{{ site.tagline }}</h2>
+    <div>
+        <h1 class="project-name"><a href="{{site.url}}">{{ site.title }}</a></h1>
+       <!--  <h2 class="project-tagline">{{ site.tagline }}</h2> -->
+    </div>
+    <a class="home-link" href="http://BriceShatzer.com">
+        <img src="{{ site.url }}/assets/face.png" alt="Back to BriceShatzer.com"/>
+        <span class="text"> 
+            <span>&laquo;</span> back to BriceShatzer.com
+        </span>
+
+       <!--  <strong><< &laquo; &Lt;</strong>  back to BriceShatzer.com</span> -->
+    </a>
+
   <!--
   <a href="#" class="btn">View on GitHub</a>
   <a href="#" class="btn">Download .zip</a>
   <a href="#" class="btn">Download .tar.gz</a>
   -->
 </section>
+{% if  page.date  %}
+  <!-- is a post -->
+{% endif %}

@@ -3,5 +3,184 @@
 
 @import "{{ site.theme }}";
 
-body {background-color: yellow !important;}
+$accent-color: #69B5C3;
+$base-text-color: #333;
+$header-height: 250px;
 
+body {
+    //background-color: lightblue !important;
+    font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    color: $base-text-color;
+
+    background-color: #F2F2F2;
+
+}
+.page-header {
+    padding: 0;
+    background-image: url('/assets/terminal.png');
+    background-size: cover;
+    text-align: center;
+    background-position: center 3%;
+    position: relative;
+    box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.7);
+
+
+    & > div {
+        min-height: $header-height;
+        display: flex;
+        flex-direction: column;
+        align-content:center;
+        justify-content: center;
+        width:100%;
+        height:100%;
+        //background-color: rgba(#333,0.75);
+        background-color: rgba(#000,0.75);
+    }
+    .project-name a {
+        color: #fff;
+        &:hover,
+        &:focus,
+        &:active { 
+            //color: $accent-color; 
+            text-decoration: none;
+        }
+    }
+}
+.home-link {
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    display: flex;
+    align-items: center;
+    
+
+    img {width: 4rem;}
+    .text {
+        padding-left: 1rem;
+        opacity: 0; 
+        position: relative;
+        left: -1rem;
+        color: #fff;
+        transition: all 150ms ease;
+        &>span {font-size:150%}
+
+    }
+    /*
+    span { 
+        padding-left: 1rem;
+        opacity: 0; 
+        position: relative;
+        left: -1rem;
+        color: #fff;
+        transition: all 150ms ease;
+    }
+    */
+    &:hover {
+        text-decoration: none;
+        span {
+            left: 0;
+            opacity: 1;
+        }
+        
+
+
+    }
+}
+.posts-link {
+    //font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family:"Lato", "Droid Sans", "sans-serif";
+    font-size: 150%;
+    font-weight: 700;
+    position: fixed;
+    //top: calc(#{$header-height}+1rem);
+    //top: $header-height;
+    bottom: 1.5rem;
+    left: 2rem;
+    padding-top: 1rem;
+    color: $base-text-color;
+    transition: color 150ms ease;
+
+    &>span {font-size:150%;}
+
+
+    &:hover,
+    &:focus,
+    &:active { 
+        color: $accent-color; 
+        text-decoration: none;
+    }    
+
+    &.end-of-content {
+        display: none;
+        position: static;
+        text-align: center;
+    }
+
+}
+.main-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    h1,h2,h3,h4,h5,h6 {
+        font-family:"Lato", "Droid Sans", "sans-serif";
+        //color: $accent-color;
+        color: $base-text-color;
+        font-weight: 700;
+    }
+    a:not(.end-of-content) {color: $accent-color;}
+
+    .post-title { 
+        margin-top: 0;
+        margin-bottom: 2rem; 
+        font-size: 1.75em;
+        line-height: 1.25;
+    }
+    .meta {font-size: 80%;}
+}
+
+.posts {
+    li {
+        margin-bottom: 2rem;
+        display: flex;
+        align-content: flex-start;
+        flex-direction: column;
+        //justify-content: center;        
+    }
+    span {
+        font-size: 80%;
+    }
+    h3 {        
+        font-size: 150%;
+        font-weight: 700;
+        line-height: 1.25;
+        a {
+            color: #333;
+            transition: color 150ms ease;
+            &:hover,
+            &:focus,
+            &:active { 
+                color: $accent-color; 
+                text-decoration: none;
+            }
+        }        
+    }
+    h3,p {
+        margin: 0;
+    }
+    p {margin-top: 0.5rem;}
+}
+
+
+.site-footer {text-align: center;}
+
+@media screen and (min-width:64em) and (max-width: 1360px) {    
+    .posts-link {
+        left: 1rem;
+    }
+    .main-content {padding-left: calc(116px + 2rem); }
+}
+
+@media screen and (max-width: 64em) {
+    .posts-link {display:none;}
+    .posts-link.end-of-content {display: block;}
+}

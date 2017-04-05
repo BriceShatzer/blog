@@ -5,10 +5,23 @@
 
   <body>
     {% include page-header.html %}
+    {% assign is_post = false %}
 
+    {% if page.date %}
+        {% assign is_post = true %}
+    {% endif %}    
+
+
+    {% if is_post %}
+        <a class="posts-link" href="{{site.url}}"><span>&laquo;</span> All Posts</a>
+    {% endif %}       
+    
     <section class="main-content">
-      
       {{ content }}
+      
+      {% if is_post %}
+        <a class="end-of-content posts-link" href="{{site.url}}"><span>&laquo;</span> All Posts</a>
+      {% endif %}
 
       {% include page-footer.html %}
 
