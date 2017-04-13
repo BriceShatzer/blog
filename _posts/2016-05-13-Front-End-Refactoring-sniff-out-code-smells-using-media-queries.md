@@ -2,7 +2,7 @@
 layout: post
 title:  "Front-End Refactoring: Sniff Out Code Smells Using Media Queries"
 date:   2016-05-13 13:10:38 -0500
-categories: jekyll update
+categories: CSS javascript media-query
 description: " An article written for the Doejo blog that discusses some strategies around using JavaScript to painlessly audit an unfamiliar front-end code base, with the goal of uncovering idiosyncrasies and flaws that could potentially cause issues maintaining or enhancing the project going forward. "
 ---
 
