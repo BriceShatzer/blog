@@ -15,7 +15,9 @@ Majestic
 Jansport
 Lee
 
-
+###Thoughts...  
+Risk: Amazon co-opting the technology  
+*Keanan had mentioned a term for what Apple did to apps that it liked. Basically replacing their functionality as a core part of the OS and rendering the original app obsolete (either implicitly or explicitly*  
 
 ###links 
 
