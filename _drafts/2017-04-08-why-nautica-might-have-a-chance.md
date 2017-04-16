@@ -16,10 +16,11 @@ Jansport
 Lee
 
 ###Thoughts...  
+
 Risk: Amazon co-opting the technology  
 *Keanan had mentioned a term for what Apple did to apps that it liked. Basically replacing their functionality as a core part of the OS and rendering the original app obsolete (either implicitly or explicitly*  
 
-###links 
+###links  
 
 [Stores Are Closing at a Record Pace as Amazon chews up retailers](https://www.bloomberg.com/news/articles/2017-04-07/stores-are-closing-at-a-record-pace-as-amazon-chews-up-retailers)
 
