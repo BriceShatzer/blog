@@ -7,21 +7,19 @@ description: "This is a also short description"
 ---
 
 VF Corporation Brands: 
-Nautica <- uses integrated system
-Vans
-Reef
-The North Face
-Majestic
-Jansport
-Lee
+Nautica <- uses integrated system  
+Vans  
+Reef  
+The North Face  
+Majestic  
+Jansport  
+Lee  
 
-###Thoughts...  
-
+### Thoughts...  
 Risk: Amazon co-opting the technology  
 *Keanan had mentioned a term for what Apple did to apps that it liked. Basically replacing their functionality as a core part of the OS and rendering the original app obsolete (either implicitly or explicitly*  
 
-###links  
-
+### links  
 [Stores Are Closing at a Record Pace as Amazon chews up retailers](https://www.bloomberg.com/news/articles/2017-04-07/stores-are-closing-at-a-record-pace-as-amazon-chews-up-retailers)
 
 [Cramer: Amazon is the web, retail is a dying newspaper industry](http://www.cnbc.com/2016/05/12/cramer-amazon-is-the-web-retail-is-a-dying-newspaper-industry.html)
