@@ -13,14 +13,14 @@
 
 
     {% if is_post %}
-        <a class="posts-link" href="{{site.baseurl}}"><span>&laquo;</span> All Posts</a>
+        <a class="posts-link" href="{{ "/" | relative_url }}"><span>&laquo;</span> All Posts</a>
     {% endif %}
 
     <section class="main-content">
       {{ content }}
 
       {% if is_post %}
-        <a class="end-of-content posts-link" href="{{site.baseurl}}"><span>&laquo;</span> All Posts</a>
+        <a class="end-of-content posts-link" href="{{ "/" | relative_url }}"><span>&laquo;</span> All Posts</a>
       {% endif %}
 
       {% include page-footer.html %}

@@ -103,7 +103,7 @@ Specifically, we're on the looking for things like:
 **Let's look at an example.**  
 I've run the audit script on a project that I recently inherited, and the image below is what was outputed to the console.  
 
-[![Console result after running the script]({{ "/" | relative_url }}/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/example.png)]({{ site.url }}/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/example.png)  
+[![Console result after running the script]({{ "/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/example.png" | relative_url }})]({{ "/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/example.png" | relative_url}})  
 
 At the top of table, we see several media queries that contain the majority of the rules for this project. We know that this project was built using [Foundation 5](http://foundation.zurb.com/sites/docs/v/5.5.3/), so seeing their media feature definitions using the [em length units](https://developer.mozilla.org/en-US/docs/Web/CSS/length#em) is to be expected. These media queries are most likely using [Foundation's built in variables](http://foundation.zurb.com/sites/docs/v/5.5.3/media-queries.html) or are defined using a value that is consistent with those variables.  
 
@@ -127,5 +127,5 @@ The `mediaQueriesMap` map that is created is fairly flexible. In addition to cre
 
 The resulting output (below) could be useful in tracking down where exactly within the project's uncompiled Sass/LESS/Stylus files to start looking for an issue.  
 
-[![Using the console to get more info on the selectors inside a media query]({{ "/" | relative_url }}/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/expanded-use_example.png)]({{ site.url }}/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/expanded-use_example.png)  
+[![Using the console to get more info on the selectors inside a media query]({{ "/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/expanded-use_example.png" | relative_url }})]({{"/assets/post-files/2016-05-13-Front-End-Refactoring-sniff-out-code-smells-using-media-queries/expanded-use_example.png" | relative_url }})  
 
