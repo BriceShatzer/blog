@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  
+
   {% include head.html %}
 
   <body>
@@ -9,18 +9,18 @@
 
     {% if page.date %}
         {% assign is_post = true %}
-    {% endif %}    
+    {% endif %}
 
 
     {% if is_post %}
-        <a class="posts-link" href="{{site.url}}"><span>&laquo;</span> All Posts</a>
-    {% endif %}       
-    
+        <a class="posts-link" href="{{site.baseurl}}"><span>&laquo;</span> All Posts</a>
+    {% endif %}
+
     <section class="main-content">
       {{ content }}
-      
+
       {% if is_post %}
-        <a class="end-of-content posts-link" href="{{site.url}}"><span>&laquo;</span> All Posts</a>
+        <a class="end-of-content posts-link" href="{{site.baseurl}}"><span>&laquo;</span> All Posts</a>
       {% endif %}
 
       {% include page-footer.html %}
