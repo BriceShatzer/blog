@@ -18,3 +18,13 @@ Software development doesn't have that. It's actually the polar opposite as it i
 This isn't inherently an issue when the largest consequences of a catastrophic failure is just that somebody loses a fuck-ton of money. 
 
 It starts to become a problem when software becomes integrated into systems that have catastrophic failure states that mirror that of a bridge collapsing. 
+
+
+
+---
+
+
+The equifax hack is, actuarially speaking, equivant to the [death around 29 people](https://en.wikipedia.org/wiki/Value_of_life) ([$275](https://www.reuters.com/article/us-equifax-cyber/equifax-breach-could-be-most-costly-in-corporate-history-idUSKCN1GE257)/[$9.6](https://en.wikipedia.org/wiki/Value_of_life#United_States))
+
+[Fly-by-wire](https://en.wikipedia.org/wiki/Fly-by-wire#Legislation)
+[Shift-by-wire](https://en.wikipedia.org/wiki/Shift_by_wire)
