@@ -23,4 +23,4 @@ bundle exec jekyll serve
 When referncing a path to a file/page, use the construct:  
 `{{ "/" | relative_url }}"`  
 
-This maintains all the pathing if the `baseurl` defined in `_config.yml` is updated. This originally wasn't an issue but [it appears](https://stackoverflow.com/questions/42450554/jekyll-site-works-locally-but-not-on-github-pages) a change in 
+This maintains all the pathing if the `baseurl` defined in `_config.yml` is updated. This originally wasn't an issue but [it appears](https://stackoverflow.com/questions/42450554/jekyll-site-works-locally-but-not-on-github-pages) a change occured with `jekyll-github-metadata v2.5.0` which caused something to break.
