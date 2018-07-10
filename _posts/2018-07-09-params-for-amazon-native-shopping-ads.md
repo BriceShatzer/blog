@@ -11,7 +11,7 @@ _This post covers how to define/interact with [Amazon Native Shopping Ads](https
 
 _Useful links from this post:_  
 - _["Official Ad Code Parameters"](#the-official-parameters-for-native-shopping-ads)_  
-- _[Values that onejs are looking for on the global scope](https://gist.github.com/BriceShatzer/f2a884a38f023d08024b369479926bd7)_  
+- _[All 137 values that onejs is looking for on the global scope](https://gist.github.com/BriceShatzer/f2a884a38f023d08024b369479926bd7)_  
 - _[Amazon's onejs file unminified](https://gist.github.com/BriceShatzer/419fed1a315362c2e60a1f128ed02fa1)_
 
 
