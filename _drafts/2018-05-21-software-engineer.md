@@ -2,7 +2,7 @@
 layout: post
 title:  '"Software Engineer"'
 date:   2018-05-21 12:00:00 -0500
-categories: development Software engineering sa
+categories: development Software engineering 
 description: "This is a also short description"
 ---
 
