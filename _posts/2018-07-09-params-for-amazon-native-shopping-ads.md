@@ -1,9 +1,13 @@
 ---
 layout: post
 title:  "Amazon is Worth $800 Billion & Apparently I Have to Write Their Documentation"
+redirect_from: 
+    - /amazon/ads/publishing/2018/07/09/params-for-amazon-native-shopping-ads/
+    - /amazon/ads/publishing/2018/07/09/params-for-amazon-native-shopping-ads.html
 date:   2018-07-09 12:00:00 -0500
-categories: Amazon ads publishing
+tags: Amazon ads publishing
 description: "The documentation that should exist on the parameters that can be set for the Amazon Affiliate Native Shopping Ads."
+
 ---
 
 _This post covers how to define/interact with [Amazon Native Shopping Ads](https://affiliate-program.amazon.com/help/node/topic/G202102890) in a programmatic manner and assumes you already have a basic understanding of what they are and how they work._ 

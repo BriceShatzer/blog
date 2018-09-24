@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Front-End Refactoring: Sniff Out Code Smells Using Media Queries"
+redirect_from:
+  - /css/javascript/media-query/2016/05/13/Front-End-Refactoring-sniff-out-code-smells-using-media-queries/
+  - /css/javascript/media-query/2016/05/13/Front-End-Refactoring-sniff-out-code-smells-using-media-queries.html
 date:   2016-05-13 13:10:38 -0500
-categories: CSS javascript media-query
+tags:  CSS javascript media-query
+categories: development
 description: " An article written for the Doejo blog that discusses some strategies around using JavaScript to painlessly audit an unfamiliar front-end code base, with the goal of uncovering idiosyncrasies and flaws that could potentially cause issues maintaining or enhancing the project going forward. "
 ---
 
