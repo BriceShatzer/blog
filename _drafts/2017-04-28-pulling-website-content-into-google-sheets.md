@@ -6,7 +6,14 @@ categories: web google-sheets drive google
 description: ""
 ---
 
+
+
+## Importing values from web page elements
 Use [IMPORTXML](https://support.google.com/docs/answer/3093342?hl=en) and a XPath query to pull in the contents of specific XML elements. 
+
+[Getting an the xpath for an element](https://stackoverflow.com/a/42194160/1608016)
+
+
 
 Also see `IMPORTHML` to bring in tables. 
 
