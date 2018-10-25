@@ -1,3 +1,5 @@
+Or, Instead, Read teamlunch.kinja.com
+
 Powered by [Jekyll](https://jekyllrb.com/) ([docs](https://jekyllrb.com/docs/home/))
 
 
