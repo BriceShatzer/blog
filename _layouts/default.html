@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
-  {% include head.html %}
-
-  <body>
-    {% include page-header.html %}
     {% assign is_post = false %}
 
     {% if page.date %}
         {% assign is_post = true %}
     {% endif %}
 
+  {% include head.html %}
+
+  <body>
+    {% include page-header.html %}
 
     {% if is_post %}
         <a class="posts-link" href="{{ "/" | relative_url }}"><span>&laquo;</span> All Posts</a>
