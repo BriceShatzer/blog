@@ -1,21 +1,31 @@
 ---
 layout: post
-title:  "In code documentation..."
+title:  "Dictating Markup Structure via Styling/SASS"
 date:   2017-06-13 12:00:00 -0500
 categories: sass best-practices documentation
-description: "This is a also short description"
+description: "A response to a Stack Overflow question about sass mixins that require a particular markup structure and the idea of extending them via arguments to make it a more flexible."
 ---
 
 
-[Stack Overflow Question](https://stackoverflow.com/questions/44533365/thoughts-on-a-mixin-requiring-a-specific-html-structure/44534118#44534118) that inspired the post.
+This is a response I gave to a [Stack Overflow question](https://stackoverflow.com/questions/44533365/thoughts-on-a-mixin-requiring-a-specific-html-structure/44534118) 
+that was soliciting opinions about using a sass mixin that requires a particular markup structure and the idea of extending it via arguments to make it a more flexible.  
 
-*TL;DR: With gratuitous code-commenting, I think dictating the structure in the styling is fine. Also, having your mixin accept arguments makes it more flexible to use, but exponentially more complex to build/maintain. Really think hard if you're ok with that tradeoff.*  
+
+I figured my the topic is interesting enough to share my (perhaps overly verbose) 
+answer to the world outside of a Stack Overflow question with 0 up-votes.  
+  
+Check out some of the other questions I've asked & answered over at [Stack Overflow](https://stackoverflow.com/users/1608016/brice). 
+
+---
+  
+*TL;DR: **With gratuitous code-commenting**, I think dictating the structure in the styling is fine. Also, having your mixin accept arguments makes it more flexible to use, but exponentially more complex to build/maintain. Really think hard if you're ok with that tradeoff.*  
 
 The nice thing about working in any sort of environment/language that will ultimately be compiled or minified before it gets to production, is that it allows you to be incredibly verbose with your code comments. At best, they can be an incredibly helpful insights into how stuff works. At worst, they are easily ignorable and get stripped when compiling for production anyways, so there really isn't a cost. SASS is no exception.
 
 With that preface in mind...  
 I have done something similar in the past where we were using [placeholder selectors][1] as a base style for a particular family of elements that would each get extended with their own unique styles given the situation. The structure of the markup that those elements needed to use, along with how to write and an extended style was all included within that particular SASS include. It ended up looking something like:  
 
+```scss
     %full-width-story-block {
     /* Can be included with article.story-block elements which need to occupy their container's full width.
        See "Usage" section after the style definitions for notes & examples. */
@@ -70,7 +80,7 @@ I have done something similar in the past where we were using [placeholder selec
               }
     */
     }
-
+```
 
 The big thing was communicating that the info was there and being consistent in the implementation. There were a couple of different families of components that shared that sort of structure, and they each had their required markup structures and process of extension laid out in the code comments in a similar manner. This made it easy for other dev to come along and start using & extending the structures we had already spent time setting up.
 
