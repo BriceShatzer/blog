@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cheaply Improving Quality of Life"
-date:   2018-09-04 12:30:00 -0500
+date:   2019-01-23 12:30:00 -0500
 tags:  urls
 categories: development
 description: " Description here "
@@ -21,7 +21,8 @@ You can do fairly basic things that can result in exponential efficiency gains.
 
 Look for [urls that allow you to do stuff](http://alexpounds.com/blog/2018/12/29/four-cool-urls).  
 
-I used a the established search pattern that GitHub uses in their urls to add a adding a [Feature Switch Search link](https://github.com/gawkermedia/kinja-mantle/pull/12842) to our dashboard management page for those values. 
+I used a the established search pattern that GitHub uses in their urls to add a adding a [Feature Switch Search link](https://changelog.kinja.com/quickly-find-feature-switches-in-github-1821016295) to our dashboard management page for those values. 
+<!-- https://github.com/gawkermedia/kinja-mantle/pull/12842 -->
 
 ### Speadsheets 
 If you even have a basic understanding of software development, you're already one of the better spreadsheet users you work with. 
