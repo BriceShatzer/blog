@@ -29,14 +29,15 @@ github_username:  BriceShatzer
 #url: "http://BriceShatzer.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
 
 
-plugin:
-  - jekyll-redirect-from
+# plugin:
+#   - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
 theme:  jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
   - github-pages
 exclude:
   - Gemfile
