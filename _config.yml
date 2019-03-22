@@ -35,7 +35,7 @@ plugin:
 # Build settings
 markdown: kramdown
 theme:  jekyll-theme-cayman
-gems:
+plugins:
   - jekyll-feed
   - github-pages
 exclude:
