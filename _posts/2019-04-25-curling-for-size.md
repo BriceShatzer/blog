@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Check the size of online files with this simple command-line function"
+title:  "Check a File's Size With This Simple Command-line Function"
 date:   2019-04-25 12:00:00 -0500
 tags: bash curl command-line
 description: "A simple function to put in your .bashrc file to quickly get the size of files via curl"
@@ -63,30 +63,8 @@ function curl-size {
 ### In Use
 
 Using it for it's original purpose...
-![curl-sizing an image]({{ "/assets/post-files/2019-04-23-curling-for-size/curl-size-image.png" | relative_url }})
+![curl-sizing an image]({{ "/assets/post-files/2019-04-25-curling-for-size/curl-size-image.png" | relative_url }})
 
 
 It even handles URLs that return non-200 status codes...  
-![curl-size returning a 301]({{ "/assets/post-files/2019-04-23-curling-for-size/curl-size-non200.png" | relative_url }})
-
-
-
-<!-- 
-![curl-size in action]({{ "/assets/post-files/2019-04-23-curling-for-size/curl-size.png" | relative_url }})
-
-### Broadening Your Horizons
-
-
-hosted 
-
- where I needed to check that size of some hosted files pages 
-
-
-
-super simple 
-
-writing a function that: 
-  1. Uses `curl -I` to fetch the header of a user provided URL
-  2. Check to make sure the header returned useful information
-  3. Take that useful header information and format it in a way that is understandable
--->
+![curl-size returning a 301]({{ "/assets/post-files/2019-04-25-curling-for-size/curl-size-non200.png" | relative_url }})
