@@ -9,7 +9,7 @@ permalink: readme.html
 
 # What is this? 
 
-While a part of a team working on [some of the best sites in the world](http://thefmg.com/our-brands), our amazing and talented project manager [Caiti Vincel](https://www.linkedin.com/in/caitistout/) suggested that we each put together a "README" document, which is basically a user manual about how we as individuals prefer to work and communicate, and just generally what makes us tick.
+While a part of a team working on [some of the best sites in the world](http://thefmg.com/our-brands), our amazing and talented project manager [Caiti Vincel](https://www.linkedin.com/in/caitistout/) suggested that we each put together a "README" document. Basically, a user manual about how we as individuals prefer to work and communicate, and just generally what makes us tick.
 
 [This blog post](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team) goes into the topic of a writting a document like this more in depth, and here are [some](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/) [other](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/) [great](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg) [examples](http://randsinrepose.com/archives/how-to-rands/) of this sort of thing. 
 
