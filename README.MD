@@ -32,13 +32,13 @@ Outside of usual work hours, I'm usually reachable on Slack via DM most of the t
 
 I have a tendency to excessively question things. I'm aware this has the potential to give off the impression that I'm an incredibly pessimistic and cynical, which I feel isn't the case. 
 
-I view disagreement and conflict as almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. I'm just my way of trying to understand why something is the way that is and trying to arrive at the most positive outcome.
+I view disagreement and conflict as almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. I'm just my way of trying to understand why something is the way that it is and trying to arrive at the most positive outcome.
 
 I also admittedly lack a degree of emotional intelligence, which means I can inadvertently say or act in a way that is far more abrasive or bitting than I had intended. 
 
 Both these are things I'm continually working on. 
 
-That being said, if I ever do or say anything that makes you feel uncomfortable or is negatively impacting you, tell me. Preferably like [this](#Feedback).
+That being said, if I ever do or say anything that makes you feel uncomfortable or is negatively impacting you, tell me. Preferably like [this](#feedback).
 
 ## Methods  
 
@@ -47,7 +47,6 @@ While I'm not particularly uncomfortable giving oral presentations, I feel I'm f
 
 
 **One-to-One & Many-to-Many**  
-
 I know I can occasionally become a bit ramble-ly, so I generally prefer written communication, either slack or email, over in-person conversations. I don't find face-to-face conversations uncomfortable or stressful in anyway, I just feel that I'm much more clear and concise when I'm forced to convey things through writing. 
 
 The downside to perferring slack/email is that I tend to become [somewhat myopic](https://www.additudemag.com/understanding-adhd-hyperfocus/) when I'm working on something. This means that I can occasionally go quite some time between consciously checking email or slack. With that in mind, if there is a discussion in a channel pertaining to something you want my input on/feel I should be aware of please, please DM or @me
@@ -58,9 +57,9 @@ The downside to perferring slack/email is that I tend to become [somewhat myopic
 **Receiving:**  
 I understand and appreciate the desire of those delivering critical feedback to want to mitigate any distress that sometimes can occur with those conversations, but I almost universally find myself wishing they would be more frank and direct in those moments.  
 
-Throughout my professional life, I've never received a piece of negative feedback that I found upsetting or even extremely surprising.  The sooner and the clearer you convey to me the issue, The faster and easier it will be for me to correct it.
+Throughout my professional life, I've never received a piece of negative feedback that I found upsetting or even extremely surprising.  The sooner and the clearer you convey to me the issue, the faster and easier it will be for me to correct it.
 
-Also, I'm not greatest at receiving positive feedback. I'm naturally self-deprecating  It's just another one of those things I'm continually trying to get better at. 
+Also, I'm not greatest at receiving positive feedback. I'm naturally self-deprecating. It's just another one of those things I'm continually trying to get better at. 
 
 **Giving:**  
 Unless there is major issue occurring, I generally won't provide feedback about/to others unless explicitly prompted to. 
@@ -68,7 +67,6 @@ Unless there is major issue occurring, I generally won't provide feedback about/
 
 
 # Career Goals 
-
 My oldest professional motivation and one of my greatest professional fears is becoming a [code monkey](https://en.wikipedia.org/wiki/Code_monkey) that simply acts as the unthinking tool that takes in specs and spits out code. 
 
 That being said, it's probably unsurprising that I find that being asked to provide my opinion on a subjective question to be one of the more rewarding things that can occur during my day. 
@@ -82,13 +80,11 @@ Ideally, I would like my career to progress in a way that affords me the opportu
 
 I deeply value learning and if [all learning is remembering](https://philosophy.stackexchange.com/questions/45599/origin-of-proverb-all-learning-is-remembering), it's probably not surprising that I absolutely adore documentation and think that it is [criminally under utilized](https://twitter.com/patio11/status/1014748989806145536).  
 
-Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify strongly with the Myers–Briggs Type Indicator ([INTJ](https://www.16personalities.com/intj-personality))  
- & the associated [Keirsey role](https://en.wikipedia.org/wiki/Mastermind_(role_variant)) and feel that archetype accurately conveys how I think and operate. Some quotes that I feel resonate particularly strongly with how I perceive myself:  
+Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify strongly with the Myers–Briggs Type Indicator ([INTJ](https://www.16personalities.com/intj-personality)) & the associated [Keirsey role](https://en.wikipedia.org/wiki/Mastermind_(role_variant)) and feel that archetype accurately conveys how I think and operate. Some quotes that I feel resonate particularly strongly with how I perceive myself:  
 
 >"They are able to live by glaring contradictions that nonetheless make perfect sense – at least from a purely rational perspective. For example, they are simultaneously the most starry-eyed idealists and the bitterest of cynics, a seemingly impossible conflict."
 
 >"Strong-willed and very self-assured, they may make this decision quickly, as they tend to make all decisions. But though they are decisive, they are open to new evidence and new ideas, flexible in their planning to accommodate changing situations. They tend to excel at judging the usefulness of ideas and will apply whatever seems most efficient to them in accomplishing their clearly envisioned goals. What matters is getting it done—but also learning the principles of how to get it done efficiently and well; that is, at a professional level of quality. However, they may not give much thought to the social cost of getting there"
-
 
 
 
