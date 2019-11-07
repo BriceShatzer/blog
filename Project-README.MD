@@ -15,9 +15,9 @@ bundle exec jekyll serve
 
 
 **Locations**  
-- `blog/_posts/*` - [Posts](https://jekyllrb.com/docs/posts/)
-- `blog/_drafts/*` - [Drafts](https://jekyllrb.com/docs/drafts/)  _preview them using:_ `jekyll serve --drafts`
-- `blog/assets/post-file/*` - [Static files](https://jekyllrb.com/docs/static-files/) for posts
+- `blog/_posts/*` - [Posts](https://jekyllrb.com/docs/posts/)  
+- `blog/_drafts/*` - [Drafts](https://jekyllrb.com/docs/drafts/)  _preview them using:_ `jekyll serve --drafts`  
+- `blog/assets/post-file/*` - [Static files](https://jekyllrb.com/docs/static-files/) for posts  
 
 **_Note_**  
 When referncing a path to a file/page, use the construct:  
