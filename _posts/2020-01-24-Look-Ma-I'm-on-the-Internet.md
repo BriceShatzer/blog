@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Look Ma, I'm on the Internet!"
+date:   2020-01-22 12:00:00 -0500
+tags: TheOnion Onion articles satire
+description: "Cataloging my meteoric rise to satirical fame and fortune..."
+---
+
+
+<style>
+  .story {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem 0 2rem;
+  }
+  .story img {
+    max-width: 720px;
+  }
+  .story a {
+    text-align: center;
+  }
+</style>
+
+<div class="story">
+  <h3>
+    <a href="https://local.theonion.com/well-i-could-do-that-says-art-museum-attendee-viewin-1841159893" target="_blank">
+    ‘Well, I Could Do That’ Says Art Museum Attendee Viewing Security Guard On Lunch Break
+  </a> - <i>1/22/2020</i>
+  </h3>
+  <a href="https://local.theonion.com/well-i-could-do-that-says-art-museum-attendee-viewin-1841159893" target="_blank">
+    <img src="/blog/assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/museum_article_crop.png" alt="The Onion homepage with an article about a museum guard eating a sandwich."  />
+  </a>
+</div>
+
+<div class="story">
+  <h3>
+    <a href="https://local.theonion.com/new-employee-confused-by-office-espresso-machine-just-r-1835002974" target="_blank">
+    New Employee Confused By Office Espresso Machine Just Returns To Desk With Mug Of Hot Water
+    </a> - <i>5/24/2019</i>
+  </h3>
+  <a href="https://local.theonion.com/well-i-could-do-that-says-art-museum-attendee-viewin-1841159893" target="_blank">
+    <img src="/blog/assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/espresso_article.png" alt="An article about a man confused by an expresso machine."  />
+  </a>
+</div>
+
+<div class="story">
+  <h3>
+    <a href="https://local.theonion.com/new-employee-confused-by-office-espresso-machine-just-r-1835002974" target="_blank">
+    Quick Scan Of Room Confirms Area Man Once Again Sweatiest Person Present
+    </a> - <i>11/09/2017</i>
+  </h3>
+  <a href="https://local.theonion.com/well-i-could-do-that-says-art-museum-attendee-viewin-1841159893" target="_blank">
+    <img src="/blog//assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/quick-scan-of-room_article_crop.jpg" alt="The Onion homepage with an article about a sweaty office worker."  />
+  </a>
+</div>
+
+<div class="story">
+  <h3>
+    <a href="https://www.facebook.com/watch/?v=10156753381304497" target="_blank">
+    Breaking: 9 Sneezes In A Fucking Row
+    </a> - <i>11/09/2017</i>
+  </h3>
+  <span>Video I'm in for ½ a second.</span><br/>
+  <a href="https://www.facebook.com/watch/?v=10156753381304497" target="_blank">
+    <img src="/blog//assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/9-sneezes.gif" alt="A looping image of confused office worker."  />
+  </a>
+</div>
+
+
+<!--
+### [‘Well, I Could Do That’ Says Art Museum Attendee Viewing Security Guard On Lunch Break](https://local.theonion.com/well-i-could-do-that-says-art-museum-attendee-viewin-1841159893) - *1/22/20*
+![museum gaurd]({{ "/assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/museum.jpg" | relative_url}})
+
+
+###  [New Employee Confused By Office Espresso Machine Just Returns To Desk With Mug Of Hot Water](https://local.theonion.com/new-employee-confused-by-office-espresso-machine-just-r-1835002974)  
+*(5/24/19)*
+![New Employee]({{ "/assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/espresso.jpg" | relative_url}}) 
+
+### [Quick Scan Of Room Confirms Area Man Once Again Sweatiest Person Present](https://local.theonion.com/quick-scan-of-room-confirms-area-man-once-again-sweatie-1820294035)
+![Sweatiest Person]({{ "/assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/quick-scan.jpg" | relative_url}}) 
+
+
+
+### [Breaking: 9 Sneezes In A Fucking Row](https://www.facebook.com/watch/?v=10156753381304497) *(7/10/18)* 
+[![9 Sneezes loop]({{ "/assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/9-sneezes.gif" | relative_url}})](https://www.facebook.com/watch/?v=10156753381304497)
+
+--> 
