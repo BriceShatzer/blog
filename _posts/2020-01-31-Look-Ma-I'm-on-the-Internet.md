@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Look Ma, I'm on the Internet!"
-date:   2020-01-22 12:00:00 -0500
+date:   2020-01-31 12:00:00 -0500
 tags: TheOnion Onion articles satire
 description: "Cataloging my meteoric rise to satirical fame and fortune..."
 ---
@@ -14,13 +14,31 @@ description: "Cataloging my meteoric rise to satirical fame and fortune..."
     flex-direction: column;
     padding: 1rem 0 2rem;
   }
-  .story img {
+  .story img,
+  .story iframe {
+    align-self: center;
+    width: 100%;
     max-width: 720px;
   }
   .story a {
     text-align: center;
   }
+  .story p {
+    text-indent: 2rem;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 </style>
+
+
+<div class="story">
+  <h3>
+    <a href="https://www.theonion.com/c/the-topical" target="_blank">The Topical</a>  &nbsp; - &nbsp; <a href="https://www.theonion.com/walmart-prevents-gun-violence-at-walmart-1841385147" target="_blank"><u>"Walmart Prevents Gun Violence At Walmart"</u></a> - <i>1/31/2020</i>
+  </h3>
+  <p>Voice of Bill Wright, CEO of Wright's Logging & Tree Services and Member of The American Loggers Council.
+  </p>
+  <iframe frameborder="no" height="200" scrolling="no" src="https://player.megaphone.fm/SONY9941520764?" width="100%"></iframe>
+</div>
 
 <div class="story">
   <h3>
@@ -61,7 +79,7 @@ description: "Cataloging my meteoric rise to satirical fame and fortune..."
     Breaking: 9 Sneezes In A Fucking Row
     </a> - <i>11/09/2017</i>
   </h3>
-  <span>Video I'm in for ½ a second.</span><br/>
+  <p>Video I'm in for ½ a second.</p>
   <a href="https://www.facebook.com/watch/?v=10156753381304497" target="_blank">
     <img src="/blog//assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/9-sneezes.gif" alt="A looping image of confused office worker."  />
   </a>
