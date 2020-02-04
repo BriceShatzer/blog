@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Look Ma, I'm on the Internet!"
-date:   2020-01-31 12:00:00 -0500
+date:   2020-02-03 12:00:00 -0500
 tags: TheOnion Onion articles satire
 description: "Cataloging my meteoric rise to satirical fame and fortune..."
 ---
@@ -28,16 +28,28 @@ description: "Cataloging my meteoric rise to satirical fame and fortune..."
     margin-top: 0;
     margin-bottom: 0;
   }
-</style>
+  li {padding-bottom:0.25em;}
+  li.title {
+    list-style: none;
+    text-indent: -1em;
 
+  }
+</style>
 
 <div class="story">
   <h3>
-    <a href="https://www.theonion.com/c/the-topical" target="_blank">The Topical</a>  &nbsp; - &nbsp; <a href="https://www.theonion.com/walmart-prevents-gun-violence-at-walmart-1841385147" target="_blank"><u>"Walmart Prevents Gun Violence At Walmart"</u></a> - <i>1/31/2020</i>
+    <a href="https://www.theonion.com/c/the-topical" target="_blank">The Topical</a>&nbsp; - &nbsp;<i>a daily podcast from The Onion and Onion Public Radio</i>
   </h3>
-  <p>Voice of Bill Wright, CEO of Wright's Logging & Tree Services and Member of The American Loggers Council.
-  </p>
-  <iframe frameborder="no" height="200" scrolling="no" src="https://player.megaphone.fm/SONY9941520764?" width="100%"></iframe>
+
+  <ul>
+    <li class="title">I've been the voice of:</li>
+    <li>Bill Wright, CEO of Wright's Logging & Tree Services and Member of The American Loggers Council, in the second story of <a href="https://www.theonion.com/walmart-prevents-gun-violence-at-walmart-1841385147" target="_blank">"Walmart Prevents Gun Violence At Walmart"</a> 
+    </li>
+    <li>Tim Jones, recruiting cordinator for the Boy Scouts of America in the second story of <a href="https://www.theonion.com/walmart-prevents-gun-violence-at-walmart-1841385147" target="_blank">"A New Democratic Frontrunner Emerges In Iowa"</a>       
+    </li>
+  </ul>
+  
+    <iframe src="https://open.spotify.com/embed/playlist/776u0NxMAoxbB6slzUIofh" width="300" height="180" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="story">
@@ -69,7 +81,7 @@ description: "Cataloging my meteoric rise to satirical fame and fortune..."
     </a> - <i>11/09/2017</i>
   </h3>
   <a href="https://local.theonion.com/well-i-could-do-that-says-art-museum-attendee-viewin-1841159893" target="_blank">
-    <img src="/blog//assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/quick-scan-of-room_article_crop.jpg" alt="The Onion homepage with an article about a sweaty office worker."  />
+    <img src="/blog//assets/post-files/2020-01-24-My-meteoric-rise-to-satirical-fame-continues/quick-scan-of-room_article_crop.jpg" alt="The Onion homepage with an article about a sweaty office worker." />
   </a>
 </div>
 
