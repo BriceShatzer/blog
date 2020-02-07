@@ -20,44 +20,62 @@ Basically it is just a simple wrapper around [curl](https://curl.haxx.se/) that:
 
 ### Code
 ```sh
-
 function curl-size {
   if [[ -z $1 ]]; then
     printf '%s\n' "Please provide a URL"
   else
-    response=$(curl -sI "$1" | tr -d '\r' )
-    statuscode=$(echo $response | awk '/^HTTP/ {print}')
-    bytelength=$(echo $response | awk '/[cC]ontent-[lL]ength/ {print $2}')
-
-    if [[ $statuscode != *"200"* ]]; then
-      print $statuscode
-    fi
-
-    function _doMath {
-      divisor=$1
-      print "scale=3;$bytelength/$divisor" | bc -l
-    }
-
-    if [[ -z $bytelength || ($bytelength == "0") ]]; then
-      value=""
-      unit="Please provide a valid URL"
-    elif (($bytelength>1000000000));then #1*10^9
-      value=$(_doMath 1000000000)
-      unit="gb"
-    elif (($bytelength>1000000));then #1*10^6
-      value=$(_doMath 1000000)
-      unit="mb"
-    elif (($bytelength>1000));then
-      value=$(_doMath 1000)
-      unit="kb"
+    local response=$(curl -sI "$1" | tr -d '\r' )
+    local statusCode=$(echo $response | awk '/^HTTP/ {print}')
+    local byteLength=$(echo $response | awk '/[cC]ontent-[lL]ength/ {print $2}')
+    if [[ -z $response ]]; then
+      printf '%s\n' "Please provide a valid URL"
     else
-      value="$bytelength"
-      unit="bytes"
+      local disposition=UNKNOWN
+
+      if [[ $statusCode = *"200"* ]]; then
+        disposition=OK
+      elif [[ $statusCode = *" 30"* ]]; then
+        disposition=REDIRECT
+        local newLocation=$(echo $response | awk '/^[lL]ocation:/ {print $2}')
+        print $statusCode
+      else
+        disposition=OTHER
+      fi
+
+      function _doMath {
+        divisor=$1
+        print "scale=3;$byteLength/$divisor" | bc -l
+      }
+
+      if [[ $disposition == REDIRECT ]]; then
+        printf 'redirecting to %s\n' $newLocation
+        curl-size $(echo $newLocation)
+      elif [[ $disposition == OTHER ]]; then
+         print $statusCode
+      else
+        local value=""
+        local unit=""
+        if [[ -z $byteLength || ($byteLength == "0") ]]; then
+          unit="Please provide a valid URL"
+        elif (($byteLength>1000000000));then #1*10^9
+          value=$(_doMath 1000000000)
+          unit="gb"
+        elif (($byteLength>1000000));then #1*10^6
+          value=$(_doMath 1000000)
+          unit="mb"
+        elif (($byteLength>1000));then
+          value=$(_doMath 1000)
+          unit="kb"
+        else
+          value="$byteLength"
+          unit="bytes"
+        fi
+        
+        printf '%s\n' "$(printf '%s\n' "$value" | grep -o '.*[1-9]') $unit"
+      fi
     fi
-    printf '%s\n' "$(printf '%s\n' "$value" | grep -o '.*[1-9]') $unit"
   fi
 }
-
 ```
 
 ### In Use
