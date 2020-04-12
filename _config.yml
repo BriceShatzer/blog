@@ -17,7 +17,7 @@
 title: BriceShatzer.com/blog
 email: brice.shatzer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The professional blog of Brice Shatzer, a Chicago-based Iowan that is currently working
+  The professional blog of Brice Shatzer, a Chicago-based Iowan that, until recently, was working
   on the software that powers some of the internet's favorite sites. Opinions here are my own.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 permalink: /:year-:month-:day-:title
