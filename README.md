@@ -34,7 +34,7 @@ I have a tendency to excessively question things. I'm aware this has the potenti
 
 I view disagreement and conflict as almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. I'm just my way of trying to understand why something is the way that it is and trying to arrive at the most positive outcome.
 
-I also admittedly lack a degree of emotional intelligence, which means I can inadvertently say or act in a way that is far more abrasive or bitting than I had intended. 
+I also admittedly lack a degree of emotional intelligence, which means I can inadvertently say or act in a way that is far more abrasive or biting than I had intended. 
 
 Both these are things I'm continually working on. 
 
