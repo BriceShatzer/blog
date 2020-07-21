@@ -95,7 +95,7 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
     <tbody align="center">
     <tr>
         <td align="center">
-            <a href="https://www.pottermore.com/collection/all-about-ravenclaw" target="_blank"><img src="https://i.imgur.com/FRjXHAw.png" width="150px" /></a>
+            <a href="https://www.wizardingworld.com/news/discover-your-hogwarts-house-on-wizarding-world" target="_blank"><img src="https://i.imgur.com/FRjXHAw.png" width="150px" /></a>
         </td>
         <td>
             <a href="https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-12/15/16/enhanced/webdr09/anigif_enhanced-5673-1450213488-30.gif" width="150px" /></a>
@@ -106,7 +106,7 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
     </tr>
     <tr>
         <td>
-            <a href="https://www.pottermore.com/collection/all-about-ravenclaw" target="_blank">Ravenclaw</a>
+            <a href="https://www.wizardingworld.com/news/discover-your-hogwarts-house-on-wizarding-world" target="_blank">Ravenclaw</a>
         </td>
         <td>
             <a href="https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you">Donatello</a>
@@ -121,7 +121,7 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
             <a href="https://en.wikipedia.org/wiki/Gemini_(astrology)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gemini.svg/800px-Gemini.svg.png" width="150px" /></a>
         </td>
         <td>
-            <a href="https://en.wikipedia.org/wiki/V%E1%B9%9B%E1%B9%A3abha" target="_blank"><img src='http://diysolarpanelsv.com/images/bull-logo-clipart-transparent-5.png' width="150px"/></a>
+            <a href="https://en.wikipedia.org/wiki/V%E1%B9%9B%E1%B9%A3abha" target="_blank"><img src='https://i.imgur.com/xGqM1FG.png' width="150px"/></a>
         </td>
         <td>
             <a href="http://astrologyk.com/zodiac/chinese/year/1988" target="_blank">
