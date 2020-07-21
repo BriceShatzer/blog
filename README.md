@@ -40,7 +40,7 @@ I view disagreement and conflict as almost universally healthy and positive thin
 
 I also admittedly lack a degree of emotional intelligence, which means I can inadvertently say or act in a way that is far more abrasive or biting than I had intended. 
 
-Both these are things I'm continually working on. 
+Both of these are things I'm continually working on. 
 
 That being said, if I ever do or say anything that makes you feel uncomfortable or is negatively impacting you, tell me. Preferably like [this](#feedback).
 
