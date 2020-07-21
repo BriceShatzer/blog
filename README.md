@@ -7,21 +7,25 @@ permalink: readme.html
 <h1 style="text-align: center;font-size:3em">README for Brice Shatzer</h1>
 
 
-# What is this? 
+## What is this? 
 
 While a part of a team working on [some of the best sites in the world](http://thefmg.com/our-brands), our amazing and talented project manager [Caiti Vincel](https://www.linkedin.com/in/caitistout/) suggested that we each put together a "README" document. Basically, a user manual about how we as individuals prefer to work and communicate, and just generally what makes us tick.
 
-[This blog post](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team) goes into the topic of a writting a document like this more in depth, and here are [some](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/) [other](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/) [great](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg) [examples](http://randsinrepose.com/archives/how-to-rands/) of this sort of thing. 
+[This blog post](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team) goes into the topic of a writing a document like this more in depth, and here are [some](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/) [other](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/) [great](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg) [examples](http://randsinrepose.com/archives/how-to-rands/) of this sort of thing. 
 
 Below you will find my version. This document is intended to be an ever-evolving work that will grow and change as I *(hopefully)* grow and change as a person throughout my career. 
 
 
+## Backstory... 
+I grew up in [small-town Iowa](https://en.wikipedia.org/wiki/Hudson,_Iowa) and after spending 12 years with the same 56 kids, I decided to head out of state for my degree, attending [Carthage College](https://www.carthage.edu/about/) in Kenosha, Wisconsin. There I played [soccer](https://athletics.carthage.edu/sports/mens-soccer), wrote for the school paper, and was active in Greek life as member of [TKE](https://www.tke.org/about), before finally receiving a BA in Communication/Digital Media. 
+
+Currently, I live in [Chicago](https://www.google.com/maps/place/One+Superior+Place,+Chicago,+IL+60654/@41.8956616,-87.6290783,3a,75y,164.3h,91.94t/data=!3m6!1e1!3m4!1sOJXJXoPw-l7MJIoRUf29zQ!2e0!7i16384!8i8192!4m7!3m6!1s0x880fd34d532a9eb1:0xa5516f17b08621ce!8m2!3d41.8951727!4d-87.6288941!14m1!1BCgIgARICCAI) and outside of spending waaaaay too much time [playing video games](https://steamcommunity.com/id/briceshatzer/), I enjoy reading, trying to stay active (table tennis, flag football, & soccer), and [playing cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering). 
 
 # Working Hours  
 
 I usually engage with work from around [10am](https://tinyurl.com/ybejrns7) until [6pm](https://tinyurl.com/y76bync5).  
 
-I find that I'm more productive when I'm physically in the office. This, coupled with fact that I live within walking distance means that I try to make it a point to come in and very rarely take advantage of our generous work-from-home policy. That being said, since I generally start my day later relative to my peers, I tend to take earlier morning meetings from home.  
+I find that I'm more productive when I'm physically in the office. This, coupled with fact that I generally try to live within walking distance of the places I work it means that I try to make it a point to come in and very rarely take advantage of work-from-home policies. That being said, since I generally start my day later relative to my peers, I tend to take earlier morning meetings from home.  
 
 Outside of usual work hours, I'm usually reachable on Slack via DM most of the time but don't make it a point to check email or channels without a compelling reason.
 
@@ -49,7 +53,7 @@ While I'm not particularly uncomfortable giving oral presentations, I feel I'm f
 **One-to-One & Many-to-Many**  
 I know I can occasionally become a bit ramble-ly, so I generally prefer written communication, either slack or email, over in-person conversations. I don't find face-to-face conversations uncomfortable or stressful in anyway, I just feel that I'm much more clear and concise when I'm forced to convey things through writing. 
 
-The downside to perferring slack/email is that I tend to become [somewhat myopic](https://www.additudemag.com/understanding-adhd-hyperfocus/) when I'm working on something. This means that I can occasionally go quite some time between consciously checking email or slack. With that in mind, if there is a discussion in a channel pertaining to something you want my input on/feel I should be aware of please, please DM or @me
+The downside to preferring slack/email is that I tend to become [somewhat myopic](https://www.additudemag.com/understanding-adhd-hyperfocus/) when I'm working on something. This means that I can occasionally go quite some time between consciously checking email or slack. With that in mind, if there is a discussion in a channel pertaining to something you want my input on/feel I should be aware of please, please DM or @me
 
 
 ## Feedback 
@@ -73,6 +77,7 @@ That being said, it's probably unsurprising that I find that being asked to prov
 
 Ideally, I would like my career to progress in a way that affords me the opportunity for that situation to occur in a progressively more frequent way. 
 
+Beyond solving individual problems, I've come to appreciate the more administrative and organizational side of work. I've flirted with the idea of getting an MBA and certainly wouldn't be surprised if my career eventually took a more managerial direction at some point. 
 
 
 
@@ -88,7 +93,7 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
 
 
 
-## ...I'm a Miranda
+### ...I'm a Miranda
 
 
 <table border="0" align="center">
