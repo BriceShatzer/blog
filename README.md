@@ -25,7 +25,7 @@ Currently, I live in [Chicago](https://www.google.com/maps/place/One+Superior+Pl
 
 I usually engage with work from around [10am](https://tinyurl.com/ybejrns7) until [6pm](https://tinyurl.com/y76bync5).  
 
-I find that I'm more productive when I'm physically in the office. This, coupled with fact that I generally try to live within walking distance of the places I work it means that I try to make it a point to come in and very rarely take advantage of work-from-home policies. That being said, since I generally start my day later relative to my peers, I tend to take earlier morning meetings from home.  
+I find that I'm more productive when I'm physically in the office. This, coupled with fact that I generally try to live within walking distance of the places I work means that I try to make it a point to come in and very rarely take advantage of work-from-home policies. That being said, since I generally start my day later relative to my peers, I tend to take earlier morning meetings from home.  
 
 Outside of usual work hours, I'm usually reachable on Slack via DM most of the time but don't make it a point to check email or channels without a compelling reason.
 
