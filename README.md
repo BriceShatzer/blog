@@ -17,7 +17,7 @@ Below you will find my version. This document is intended to be an ever-evolving
 
 
 # Backstory... 
-I grew up in [small-town Iowa](https://en.wikipedia.org/wiki/Hudson,_Iowa) and after spending 12 years with the same 56 kids, I decided to head out of state for my degree, attending [Carthage College](https://www.carthage.edu/about/) in Kenosha, Wisconsin. There I played [soccer](https://athletics.carthage.edu/sports/mens-soccer), wrote for the school paper, and was active in Greek life as member of [TKE](https://www.tke.org/about), before finally receiving a BA in Communication/Digital Media. 
+I grew up in [small-town Iowa](https://en.wikipedia.org/wiki/Hudson,_Iowa) and after spending 12 years with the same [56 kids](https://i.imgur.com/5w5boDs.jpg), I decided to head out of state for my degree, attending [Carthage College](https://www.carthage.edu/about/) in Kenosha, Wisconsin. There I played [soccer](https://athletics.carthage.edu/sports/mens-soccer), wrote for the school paper, and was active in Greek life as member of [TKE](https://www.tke.org/about), before finally receiving a BA in Communication/Digital Media. 
 
 Currently, I live in [Chicago](https://www.google.com/maps/place/One+Superior+Place,+Chicago,+IL+60654/@41.8956616,-87.6290783,3a,75y,164.3h,91.94t/data=!3m6!1e1!3m4!1sOJXJXoPw-l7MJIoRUf29zQ!2e0!7i16384!8i8192!4m7!3m6!1s0x880fd34d532a9eb1:0xa5516f17b08621ce!8m2!3d41.8951727!4d-87.6288941!14m1!1BCgIgARICCAI) and outside of spending waaaaay too much time [playing video games](https://steamcommunity.com/id/briceshatzer/), I enjoy reading, trying to stay active (table tennis, flag football, & soccer), and [playing cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering). 
 
