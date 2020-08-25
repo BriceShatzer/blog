@@ -36,7 +36,7 @@ Outside of usual work hours, I'm usually reachable on Slack via DM most of the t
 
 I have a tendency to excessively question things. I'm aware this has the potential to give off the impression that I'm an incredibly pessimistic and cynical, which I feel isn't the case. 
 
-I view disagreement and conflict as almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. I'm just my way of trying to understand why something is the way that it is and trying to arrive at the most positive outcome.
+I view disagreement and conflict as almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. It's just my way of understanding why something is the way that it is and trying to arrive at the most positive outcome.
 
 I also admittedly lack a degree of emotional intelligence, which means I can inadvertently say or act in a way that is far more abrasive or biting than I had intended. 
 
@@ -71,11 +71,9 @@ Unless there is major issue occurring, I generally won't provide feedback about/
 
 
 # Career Goals 
-My oldest professional motivation and one of my greatest professional fears is becoming a [code monkey](https://en.wikipedia.org/wiki/Code_monkey) that simply acts as the unthinking tool that takes in specs and spits out code. 
+My oldest professional motivation and one of my greatest fears is becoming a [code monkey](https://en.wikipedia.org/wiki/Code_monkey) that simply acts as an unthinking tool that takes in specs and spits out code. 
 
-That being said, it's probably unsurprising that I find that being asked to provide my opinion on a subjective question to be one of the more rewarding things that can occur during my day. 
-
-Ideally, I would like my career to progress in a way that affords me the opportunity for that situation to occur in a progressively more frequent way. 
+That being said, it's probably unsurprising that I find being asked to provide my opinion on a subjective question to be one of the more rewarding things that can occur during my day. Ideally, I would like my career to progress in a way that affords me the opportunity for that situation to occur in a progressively more frequent way. 
 
 Beyond solving individual problems, I've come to appreciate the more administrative and organizational side of work. I've flirted with the idea of getting an MBA and certainly wouldn't be surprised if my career eventually took a more managerial direction at some point. 
 
