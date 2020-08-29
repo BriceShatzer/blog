@@ -14,9 +14,11 @@ description: "I read the book so you don't have to..."
     .main-content p + ul {
         margin-top: -1em;
     }
+    h3 + p + ul > li,
     h3 + ul > li {
         margin-bottom: 0.5rem;
     }
+
 </style>
 
 Being smart is actually a fairly big problem.  
@@ -28,49 +30,40 @@ Stuff to do when somebody dies:
 - order at least 10 copies of the death certificate
 
 
-### #12 You Don't Have a Will
+### #12 You Don't Have a Will  
 
-
-When you die, things like: 
-- assets held in trust
-- life insurance benefits with named beneficiaries
-- retirement accounts with named beneficiaries 
-- real estate held jointly or by "[Tenants by Entirety](https://www.investopedia.com/terms/t/tbe.asp)"
-are all passed on automatically. 
-
-Everything else, goes through something called [probate](https://www.investopedia.com/terms/p/probate.asp). This is a litigation process that basically determines what happens with all of the stuff you're leaving behind.  Having a will makes this process way easier on your loved ones and also helps ensure that the court doesn't default to [intestate](https://www.investopedia.com/terms/i/intestate.asp) laws to figure out what happens to your things. 
-
-**Not having a will is one of the single most selfish things a person can possible do**. Even if you're [forever alone]({{ "/assets/post-files/2020-07-23-The-Dumb-Things/forever_alone.png" | relative_url }}), get a will. Even if you have no assets, get a will. 
-
-
-
-**Basic estate documents you should probably have:** 
-- **Letter of Instruction**: lays out what you want to happen with your remains.
-- **Power of Attorney**: lets someone conduct legal & financial business on your behalf
-- **Health Care Proxy**: Authorizes someone to act on your behalf in case you become so impaired that you can no longer make health care decisions for yourself. It's basically the "Pull the Plug" document, so make sure you select someone who won't have a problem discontinuing treatment, putting a hospice team in place or disconnecting life-support.
-- **Trusts**: Generally trusts are used by those with estates exceeding $11.2 million ($22.4 million for married couples) as a means to leave property to their heirs in a way that minimizes federal estate taxes. That being said, it's important to note that a trust can allow heirs to gain access to their inheritance much more quickly and easily, because the trust's assets don't have to enter probate. 
-- **Do-Not-Resuscitate Order**: Something that isn't strictly part of the estate process, but is required any time you enter a hospital or nursing home. Determines what you want extreme medical intervention to be kept alive.
-- **Last Will and Testament**: The actual document that lays out your wishes regarding your children, pets, and possessions. It typically names an executor which will be in charge of following your directions. Make sure that person will be cognitively & emotionally able to handle the various administrative takes that will be required upon your death. Although not required, it generally is a good idea to name someone residing in the same state as the deceased.  
+<p style="padding-bottom: 1em;padding-left:20px">
+    <strong>Not having a will is one of the single most selfish things a person can possible do</strong>.<br />
+    Even if you're <a href="/assets/post-files/2020-07-23-The-Dumb-Things/forever_alone.png">forever alone</a>, get a will. Even if you think you don't anything of value, get a will.
+</p>
 
 
 - When somebody dies (you or somebody you're responsible) make sure to order at least 10 copies of the death certificate. A bunch of different people are going to need it as proof that the deceased is like...actually dead. 
-
-Make your death as easy as possible on others, put together a file box that contains: 
-- list of all your bank/credit card accounts, specially noting which ones are tied to automatic bill-pay
-- list of all user names & passwords for your financial accounts, email, social media, etc.  
-*(personally, I'd recommend just keeping a copy of the master login for your password manager, which [you should be using](https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/))*
-- any insurance or annuity contracts you have
-- detailed list about any 401k, IRA, Roth IRA, savings bonds, or pensions you have
-- general notes & contact info for any brokerage accounts you have
-- marriage license and divorce papers (*both can actually end up being incredibly important*)
-- birth & adoption certificates
-- military discharge information
-- vehicle titles 
-- deeds to any property and cemetery plots you own 
-- list of any safe-deposit boxes you have 
-- documents pertaining to any business you own or operate
-- tax returns for the prior 3 years
-- contact info (including names, addresses, & social security numbers) of anyone named in your legal documents, as well as the attorneys and CPAs handling your estate. 
+- When you die, things like:  
+    <ul style="list-style: none;margin:0;"><li>- assets held in trust</li><li>- life insurance benefits with named beneficiaries</li><li>- retirement accounts with named beneficiaries</li><li>- real estate held jointly or by "<a href="https://www.investopedia.com/terms/t/tbe.asp">Tenants by Entirety</a>"</li><li style="margin-left:-1em;">are all passed on automatically. Everything else, goes through something called <a href="https://www.investopedia.com/terms/p/probate.asp">probate</a>. This is a litigation process that basically determines what happens with all of the stuff you're leaving behind. Having a will makes this process way easier on your loved ones and also helps ensure that the court doesn't default to <a href="https://www.investopedia.com/terms/i/intestate.asp">intestate</a> laws to figure out what happens to your things. </li></ul>  
+- **Basic estate documents you should probably have:** 
+    + **Letter of Instruction**: lays out what you want to happen with your remains.
+    + **Power of Attorney**: lets someone conduct legal & financial business on your behalf
+    + **Health Care Proxy**: Authorizes someone to act on your behalf in case you become so impaired that you can no longer make health care decisions for yourself. It's basically the "Pull the Plug" document, so make sure you select someone who won't have a problem discontinuing treatment, putting a hospice team in place or disconnecting life-support.
+    + **Trusts**: Generally trusts are used by those with estates exceeding $11.2 million ($22.4 million for married couples) as a means to leave property to their heirs in a way that minimizes federal estate taxes. That being said, it's important to note that a trust can allow heirs to gain access to their inheritance much more quickly and easily, because the trust's assets don't have to enter probate. 
+    + **Do-Not-Resuscitate Order**: Something that isn't strictly part of the estate process, but is required any time you enter a hospital or nursing home. Determines what you want extreme medical intervention to be kept alive.
+    + **Last Will and Testament**: The actual document that lays out your wishes regarding your children, pets, and possessions. It typically names an executor which will be in charge of following your directions. Make sure that person will be cognitively & emotionally able to handle the various administrative takes that will be required upon your death. Although not required, it generally is a good idea to name someone residing in the same state as the deceased.  
+- Make your death as easy as possible on others, put together a file box that contains: 
+    + list of all your bank/credit card accounts, specially noting which ones are tied to automatic bill-pay
+    + list of all user names & passwords for your financial accounts, email, social media, etc.  
+    *(personally, I'd recommend just keeping a copy of the master login for your password manager, which [you should be using](https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/))*
+    + any insurance or annuity contracts you have
+    + detailed list about any 401k, IRA, Roth IRA, savings bonds, or pensions you have
+    + general notes & contact info for any brokerage accounts you have
+    + marriage license and divorce papers (*both can actually end up being incredibly important*)
+    + birth & adoption certificates
+    + military discharge information
+    + vehicle titles 
+    + deeds to any property and cemetery plots you own 
+    + list of any safe-deposit boxes you have 
+    + documents pertaining to any business you own or operate
+    + tax returns for the prior 3 years
+    + contact info (including names, addresses, & social security numbers) of anyone named in your legal documents, as well as the attorneys and CPAs handling your estate. 
 
 
 
