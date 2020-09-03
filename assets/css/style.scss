@@ -127,7 +127,18 @@ body {
         color: $base-text-color;
         font-weight: 700;
     }
-    a:not(.end-of-content) {color: $accent-color;}
+    a:not(.end-of-content) {
+        color: $base-text-color;
+        text-decoration: underline;
+        text-decoration-color: $accent-color;
+        transition: color 150ms ease;
+        &:hover,
+        &:focus,
+        &:active {
+            color: $accent-color;
+        }
+        //color: $accent-color;
+    }
 
     blockquote {
         color: #666
@@ -150,7 +161,7 @@ body {
     .meta {font-size: 80%;}
 }
 
-.posts {
+#home .posts {
     li {
         margin-bottom: 2rem;
         display: flex;
@@ -168,6 +179,7 @@ body {
         a {
             color: #333;
             transition: color 150ms ease;
+            text-decoration: none;
             &:hover,
             &:focus,
             &:active {
