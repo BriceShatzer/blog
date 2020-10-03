@@ -25,9 +25,14 @@ Being smart is actually a fairly big problem.
 > Smart people generally remain more vulnerable to their biases than the rest of the population...intelligence makes us more self-righteous, and less self-aware: "The smarter you are, the better you are at constructing a narrative that supports your beliefs, rationalizing and framing the data to fit your argument or point of view."  
 > ~ **Annie Duke** in **[Thinking in Bets](https://www.amazon.com/gp/product/B074DG9LQF/)**
 
-
+<!--
 Stuff to do when somebody dies: 
 - order at least 10 copies of the death certificate
+-->
+
+### #11 You Buy the Wrong Kinds of Insurance, or None at All  
+
+- Know what your insurance covers and obviously make sure that it  acelfWhen somebody dies (you or somebody you're responsible) make sure to order at least 10 copies of the death certificate. A bunch of different people are going to need it as proof that the deceased is like...actually dead. 
 
 
 ### #12 You Don't Have a Will  
