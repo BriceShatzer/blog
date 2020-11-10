@@ -25,7 +25,7 @@ Currently, I live in [Chicago](https://www.google.com/maps/place/One+Superior+Pl
 
 I usually engage with work from around [10am](https://tinyurl.com/ybejrns7) until [6pm](https://tinyurl.com/y76bync5).  
 
-I find that I'm more productive when I'm physically in the office. This, coupled with fact that I generally try to live within walking distance of the places I work means that I try to make it a point to come in and very rarely take advantage of work-from-home policies. That being said, since I generally start my day later relative to my peers, I tend to take earlier morning meetings from home.  
+I find that I'm more productive when I'm physically in the office. This, coupled with fact that I generally try to live within walking distance of the places I work, means that I try to make it a point to come in and very rarely take advantage of work-from-home policies. That being said, since I generally start my day later relative to my peers, I tend to take earlier morning meetings from home.  
 
 Outside of usual work hours, I'm usually reachable on Slack via DM most of the time but don't make it a point to check email or channels without a compelling reason.
 
@@ -36,7 +36,7 @@ Outside of usual work hours, I'm usually reachable on Slack via DM most of the t
 
 I have a tendency to excessively question things. I'm aware this has the potential to give off the impression that I'm an incredibly pessimistic and cynical, which I feel isn't the case. 
 
-I view disagreement and conflict as almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. It's just my way of understanding why something is the way that it is and trying to arrive at the most positive outcome.
+I view disagreement and conflict as an almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. It's just my way of understanding why something is the way that it is and trying to arrive at the most positive outcome.
 
 I also admittedly lack a degree of emotional intelligence, which means I can inadvertently say or act in a way that is far more abrasive or biting than I had intended. 
 
@@ -75,7 +75,7 @@ My oldest professional motivation and one of my greatest fears is becoming a [co
 
 That being said, it's probably unsurprising that I find being asked to provide my opinion on a subjective question to be one of the more rewarding things that can occur during my day. Ideally, I would like my career to progress in a way that affords me the opportunity for that situation to occur in a progressively more frequent way. 
 
-Beyond solving individual problems, I've come to appreciate the more administrative and organizational side of work. I've flirted with the idea of getting an MBA and certainly wouldn't be surprised if my career eventually took a more managerial direction at some point. 
+Beyond solving individual problems, I've come to appreciate the more administrative and organizational side of work. I've flirted with the idea of getting an MBA and certainly wouldn't be surprised if my career eventually headed in that general direction at some point. 
 
 
 
