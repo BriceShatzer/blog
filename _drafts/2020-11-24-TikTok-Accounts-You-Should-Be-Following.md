@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Best TikTok Accounts Should Be Following"
-date:   2017-04-03 12:00:00 -0500
+date:   2020-11-23 12:00:00 -0500
 categories: jekyll update
 description: "This is a also short description"
 ---
@@ -14,18 +14,14 @@ Before we go any further, the "WHAT ABOUT CHINA?!?!" panic around TikTok is moro
 Here's a TikTok explaining why the "Chinese Panic" around is stupid. 
   people shouldn't worry about the 
 
-### Chicago Tiktok
-- [rico_suave](https://www.tiktok.com/@rico_suave__) - a funny dude who posts [sketches](https://www.tiktok.com/@rico_suave__/video/6826811766035483910) and [hilarious responses](https://www.tiktok.com/@rico_suave__/video/6898587779966487814) to people.
+### Chicago TikTok
+- **[rico_suave](https://www.tiktok.com/@rico_suave__)** - a funny dude who posts [sketches](https://www.tiktok.com/@rico_suave__/video/6826811766035483910) and [hilarious responses](https://www.tiktok.com/@rico_suave__/video/6898587779966487814) to people.
 
 
-- [shamwow_nope](https://www.tiktok.com/@shamwow_nope) - She's a middle school science teacher who makes funny and wholesome content. <!-- https://www.tiktok.com/@shamwow_nope/video/6894666470928698630 -->
-[70degress in chicago](https://www.tiktok.com/@shamwow_nope/video/6891745260947508486?lang=en)
-
-- [soshethinkssheisfunny](https://www.tiktok.com/@soshethinkssheisfunny?lang=en) - A 20-something [working-from-home](https://www.tiktok.com/@soshethinkssheisfunny/video/6885795270349638917), documenting her [life](https://www.tiktok.com/@soshethinkssheisfunny/video/6882459685392223494) and slow decent into [insanity](https://www.tiktok.com/@soshethinkssheisfunny/video/6886598169497521413)
-
-- 
-- [belabatko](https://www.tiktok.com/@belabatko) -  An artist that makes content about living in the [city](https://www.tiktok.com/@belabatko/video/6897269365985529093) [](https://www.tiktok.com/@belabatko/video/6871400539637239046), [making stuff](https://www.tiktok.com/@belabatko/video/6885914705542614277) & [life in general](https://www.tiktok.com/@belabatko/video/6871400539637239046). 
-- [citylivingsoutherngirl](https://www.tiktok.com/@citylivingsoutherngirl) - Exactly what it sounds like.  She's an Alabama transplant currently living and working in the city.
+- **[shamwow_nope](https://www.tiktok.com/@shamwow_nope)** - She's a middle school science teacher who makes [funny and wholesome content](https://www.tiktok.com/@shamwow_nope/video/6891745260947508486?lang=en).  
+- **[soshethinkssheisfunny](https://www.tiktok.com/@soshethinkssheisfunny?lang=en)** - A 20-something [working-from-home](https://www.tiktok.com/@soshethinkssheisfunny/video/6885795270349638917), documenting her [life](https://www.tiktok.com/@soshethinkssheisfunny/video/6882459685392223494) and slow decent into [insanity](https://www.tiktok.com/@soshethinkssheisfunny/video/6886598169497521413)
+- **[belabatko](https://www.tiktok.com/@belabatko)** -  An artist that makes content about living in the [city](https://www.tiktok.com/@belabatko/video/6897269365985529093) [](https://www.tiktok.com/@belabatko/video/6871400539637239046), [making stuff](https://www.tiktok.com/@belabatko/video/6885914705542614277) & [life in general](https://www.tiktok.com/@belabatko/video/6871400539637239046). 
+- **[citylivingsoutherngirl](https://www.tiktok.com/@citylivingsoutherngirl)** - Exactly what it sounds like.  She's an Alabama transplant currently living and working in the city.
 
 <!-- 
 - [oliviaexplainsitall](https://www.tiktok.com/@oliviaexplainsitall) - She's a lawyer who makes a lot day-in-the-life 
@@ -33,7 +29,7 @@ Here's a TikTok explaining why the "Chinese Panic" around is stupid.
 <!-- https://www.tiktok.com/@chicagolyss?lang=en -->
 
 
-### Developer Tiktok
+### Developer TikTok
 - [cassidoo](https://www.tiktok.com/@cassidoo) - A Principal Developer Experience Engineer at Netlify and the [OG software engineering TikToker](https://www.tiktok.com/@cassidoo/video/6716930974611000582). Makes hilarious 
 [let's talk](https://www.tiktok.com/@cassidoo/video/6731029433404411142)
 [ending a meeting](https://www.tiktok.com/@cassidoo/video/6857563069745253638)
@@ -87,11 +83,10 @@ Also she works in [PHP](https://www.tiktok.com/@lizml07/video/687580854025095091
 
 
 
-
-
 **Honorable Mentions:**
 - [shoellace](https://www.tiktok.com/@shoellace) - 20yo who gets repeated roasted by the 10 year old she baby-sits.
 - [askjeff](https://www.tiktok.com/@askjeff) - career coach guy who's entire channel is devoted to helping people get jobs through [answering questions](https://www.tiktok.com/@askjeff/video/6895820673835404550) & [providing tips](https://www.tiktok.com/@askjeff/video/6892119413307346181).
+- 
 <!--  if no teacher tiktok - [msclarissatan](https://www.tiktok.com/@msclarissatan) - a teacher at the beginning of her career  -->
 
 <!--
