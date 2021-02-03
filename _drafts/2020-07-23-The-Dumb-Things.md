@@ -29,10 +29,26 @@ Being smart is actually a fairly big problem.
 Stuff to do when somebody dies: 
 - order at least 10 copies of the death certificate
 -->
+### wip -  #1 You Buy Financial Products That You Don't Understand 
+### wip -  #2 You Take Financial Advice from the Wrong People
+### wip -  #3 You Make Money More Important Than It Is
+### wip -  #4 You Take On Too Much College Debt
+### wip -  #5 You Buy a House When You Should Rent 
+### wip -  #6 You Take On Too Much Risk 
+### wip -  #7 You Fail to Protect Your Identity
+### wip -  #8 You Indulge Yourself Too Much During Your Early Retirement
+### wip -  #9 Saddle Your Kids with Your Own Money Issues
+### wip -  #10 You Don't Plan for the Care of Your Aging Parents
 
-### #11 You Buy the Wrong Kinds of Insurance, or None at All  
+### wip - #11 You Buy the Wrong Kinds of Insurance, or None at All  
 
-- Know what your insurance covers and obviously make sure that it  acelfWhen somebody dies (you or somebody you're responsible) make sure to order at least 10 copies of the death certificate. A bunch of different people are going to need it as proof that the deceased is like...actually dead. 
+- Know what your insurance covers and obviously make sure that it  acelf
+- 
+
+
+
+
+When somebody dies (you or somebody you're responsible) make sure to order at least 10 copies of the death certificate. A bunch of different people are going to need it as proof that the deceased is like...actually dead. 
 
 
 ### #12 You Don't Have a Will  
