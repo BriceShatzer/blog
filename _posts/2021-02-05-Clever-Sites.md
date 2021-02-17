@@ -11,7 +11,7 @@ A small collection of sites/services/resources that I've found useful throughout
 
 
 ### [Regexr](https://regexr.com/)  
-When I was first starting out, I asked one of the other developers I was working with what programing language I should learn. His response, "It doesn't matter, just get really good at regular expression. They all do that." Regexr lets you visualize what your expression is selecting and capturing while you're constructing it, in addition to providing a cheatsheet and common patterns.  
+When I was first starting out, I asked one of the other developers I was working with what programing language I should learn. His response, "It doesn't matter, just get really good at regular expression. They all do that." Regexr lets you visualize what your expression is matching and capturing while you're constructing it, in addition to providing a cheatsheet and common patterns.  
 ![Regexr.com]({{ "/assets/post-files/2021-02-05-Clever-Sites/regexr.png" | relative_url }})
 
 
