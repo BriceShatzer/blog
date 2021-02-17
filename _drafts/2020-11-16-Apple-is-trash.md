@@ -22,3 +22,8 @@ unencrypted, to an Akamai powered Apple Service. This is real bad.
 
 https://twitter.com/_shatzer/status/1176918854204907520?s=20
 
+
+## Apple hates the web
+https://twitter.com/slightlylate/status/1191026394421026816
+> There seems to be confusion about how, exactly, Apple keeps the web second-class on iOS.  Understandable! It's the interplay of several interlocking effects. Let's examine them (thread).
+

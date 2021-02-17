@@ -33,3 +33,17 @@ __"but that's why you pair it with redux or whatever"__
 cool...I agree with you, but out of the box, it is nothing more than an absurdly over complicated templating engine. 
 
 It's like saying, "here have this really dope gaming PC...it doesn't have an operating system or any software that'll let you actually use it, but like...it's got a great graphics card!"
+
+
+### It's Built on a Foundation of Lies  
+
+`class`
+
+class in JS is dumb and bad 
+ - https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+ - https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf
+ - https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1
+
+
+and react was built entirely on that paradigm 
+https://twitter.com/getify/status/1093871318678659072
