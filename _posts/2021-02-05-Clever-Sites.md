@@ -28,7 +28,7 @@ The linting/hinting that most of use know and love from our favorite IDEs, but i
 
 ### Pretty Code Snippet Images w/ [Carbon](https://carbon.now.sh/)  
 Carbon lets you create great looking code snippet images for use in things like a presentation slide or blog post. 
-It gives you a ton of syntax highlighting/color scheme options and is a way easier alternative than trying mess with your editor and the snipping tool. 
+It gives you a ton of syntax highlighting/color scheme options and is a way easier alternative than trying to mess with your editor and the snipping tool. 
 ![Carbon code snippet]({{ "/assets/post-files/2021-02-05-Clever-Sites/carbon.png" | relative_url }})
 
 
@@ -78,6 +78,6 @@ Y'all remember conditional comments?
 <!--[if IE 9]> Internet Explorer 9 <![endif]-->
 ```
 
-In *"the before times"*  there were often instances where we would need target changes or functionality for different or older versions of browsers. This site has an exhaustive list of all those sorts of tricks. Thankfully I haven't needed to use this site much in recent years, although I do still run into the occasional issue around detecting and implementing something specifically for safari because [Apple hates the internet](https://threadreaderapp.com/thread/1191026394421026816.html). 
+In *"the before times"*  there were often instances where we would need target changes or functionality for different or older versions of browsers. This site has an exhaustive list of all those sorts of tricks. Thankfully, I haven't needed to use this site much in recent years, although I do still run into the occasional issue around detecting and implementing something specifically for safari because [Apple hates the internet](https://threadreaderapp.com/thread/1191026394421026816.html). 
 
 
