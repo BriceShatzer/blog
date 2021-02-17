@@ -32,7 +32,7 @@ It gives you a ton of syntax highlighting/color scheme options and is a way easi
 ### [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio/)
 Allows you to calculate the missing value of an image based on its original aspect ratio when resizing it. It's incredibly rudimentary but has been something I've used consistently for nearly a decade. 
 
-![The Aspect Ratio Calculator]({{ "/assets/post-files/2021-02-05-Clever-Sites/ARC.gif" | relative_url }})
+![The Aspect Ratio Calculator]({{ "/assets/post-files/2021-02-05-Clever-Sites/ARC.png" | relative_url }})
 
 
 
