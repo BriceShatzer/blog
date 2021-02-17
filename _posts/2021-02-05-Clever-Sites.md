@@ -4,21 +4,26 @@ title:  "Clever Sites For Developers"
 date:   2021-02-05 12:00:00 -0500
 categories: development
 tags: front-end javascript css
-description: "A collection of useful sites"
+description: "A collection of sites I've found useful over the course of my career."
 ---
 
-A collection of sites/services/resources that I've found useful throughout my career in web dev.  
+A small collection of sites/services/resources that I've found useful throughout my career in web dev.  
 
 
 ### [Regexr](https://regexr.com/)  
-When I was first starting out, I asked one of the other developers I was working with what programing language should I learn. His response, "It doesn't matter, just get really good at regular expression." Regexr lets you examine 
-
+When I was first starting out, I asked one of the other developers I was working with what programing language should I learn. His response, "It doesn't matter, just get really good at regular expression. They all do that." Regexr lets you visualize what your expression is selecting and capturing while you're constructing it, in addition to providing a cheatsheet and common patterns.  
 ![Regexr.com]({{ "/assets/post-files/2021-02-05-Clever-Sites/regexr.png" | relative_url }})
 
 
 ### Online JavaScript Beautifier - [beautifier.io](https://beautifier.io/) 
 Basically the "pretty print" [button from Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/pretty-print) attached to a text box. While this functionality is built into most IDEs, I still find myself fairly regularly throwing in a string of minified JSON or HTML into the site. 
+
 ![beautifier.io in action]({{ "/assets/post-files/2021-02-05-Clever-Sites/beautifierIO.gif" | relative_url }})
+
+### [JSHint](https://jshint.com/) 
+The linting/hinting that most of use know and love from our favorite IDEs, but in the browser. This is great for when you're working on a project that has bad/wrong/broken [eslint config file](https://eslint.org/docs/user-guide/configuring/configuration-files#using-configuration-files). It allows you easily toggle through different rule sets & environment assumptions.
+
+![JSHint in action]({{ "/assets/post-files/2021-02-05-Clever-Sites/jshint.gif" | relative_url }})
 
 
 ### Pretty Code Snippet Images w/ [Carbon](https://carbon.now.sh/)  
@@ -31,7 +36,6 @@ It gives you a ton of syntax highlighting/color scheme options and is a way easi
 
 ### [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio/)
 Allows you to calculate the missing value of an image based on its original aspect ratio when resizing it. It's incredibly rudimentary but has been something I've used consistently for nearly a decade. 
-
 ![The Aspect Ratio Calculator]({{ "/assets/post-files/2021-02-05-Clever-Sites/ARC.png" | relative_url }})
 
 
@@ -50,8 +54,7 @@ Allows you to see the impact of including a dependency in your javascript either
 
 ### [http://xip.io/](http://xip.io/)   
 
-xip.io is a magic domain name that provides wildcard DNS for any IP address.    
-Say your LAN IP address is 10.0.0.1, using xip.io:
+xip.io is a magic domain name that provides wildcard DNS for any IP address. Say your LAN IP address is 10.0.0.1, using xip.io:
 ```
           10.0.0.1.xip.io   resolves to   10.0.0.1
       www.10.0.0.1.xip.io   resolves to   10.0.0.1
@@ -69,6 +72,14 @@ Endpoint - [https://cors-anywhere.herokuapp.com/](https://cors-anywhere.herokuap
 
 
 ### [BrowserHacks](http://browserhacks.com/)
-In *"the before times"* there were often instances where we would need target changes or functionality for different or older versions of browsers. This site has an exhaustive list of all those sorts of tricks. Thankfully I haven't needed to use this site much in recent years, although I do still run into the occasional issue around detecting and implementing something specifically for safari because [Apple hates the internet](https://threadreaderapp.com/thread/1191026394421026816.html). 
+Y'all remember conditional comments?  
+```
+<!--[if IE 6]> Internet Explorer 6 <![endif]-->
+<!--[if IE 7]> Internet Explorer 7 <![endif]-->
+<!--[if IE 8]> Internet Explorer 8 <![endif]-->
+<!--[if IE 9]> Internet Explorer 9 <![endif]-->
+```
+
+In *"the before times"*  there were often instances where we would need target changes or functionality for different or older versions of browsers. This site has an exhaustive list of all those sorts of tricks. Thankfully I haven't needed to use this site much in recent years, although I do still run into the occasional issue around detecting and implementing something specifically for safari because [Apple hates the internet](https://threadreaderapp.com/thread/1191026394421026816.html). 
 
 
