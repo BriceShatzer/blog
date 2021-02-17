@@ -11,12 +11,12 @@ A small collection of sites/services/resources that I've found useful throughout
 
 
 ### [Regexr](https://regexr.com/)  
-When I was first starting out, I asked one of the other developers I was working with what programing language should I learn. His response, "It doesn't matter, just get really good at regular expression. They all do that." Regexr lets you visualize what your expression is selecting and capturing while you're constructing it, in addition to providing a cheatsheet and common patterns.  
+When I was first starting out, I asked one of the other developers I was working with what programing language I should learn. His response, "It doesn't matter, just get really good at regular expression. They all do that." Regexr lets you visualize what your expression is selecting and capturing while you're constructing it, in addition to providing a cheatsheet and common patterns.  
 ![Regexr.com]({{ "/assets/post-files/2021-02-05-Clever-Sites/regexr.png" | relative_url }})
 
 
 ### Online JavaScript Beautifier - [beautifier.io](https://beautifier.io/) 
-Basically the "pretty print" [button from Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/pretty-print) attached to a text box. While this functionality is built into most IDEs, I still find myself fairly regularly throwing in a string of minified JSON or HTML into the site. 
+Basically the "pretty print" [button from Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/javascript/pretty-print) attached to a text box. While this functionality is built into most IDEs, I still find myself regularly throwing in a string of minified JSON or HTML into the site. 
 
 ![beautifier.io in action]({{ "/assets/post-files/2021-02-05-Clever-Sites/beautifierIO.gif" | relative_url }})
 
@@ -27,9 +27,7 @@ The linting/hinting that most of use know and love from our favorite IDEs, but i
 
 
 ### Pretty Code Snippet Images w/ [Carbon](https://carbon.now.sh/)  
-
 Carbon lets you create great looking code snippet images for use in things like a presentation slide or blog post. 
-
 It gives you a ton of syntax highlighting/color scheme options and is a way easier alternative than trying mess with your editor and the snipping tool. 
 ![Carbon code snippet]({{ "/assets/post-files/2021-02-05-Clever-Sites/carbon.png" | relative_url }})
 
@@ -42,7 +40,7 @@ Allows you to calculate the missing value of an image based on its original aspe
 
 ### [Microsoft Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)  
 If you ever need to test something on a windows machine, Microsoft has made a complete array of virtual machines available for free. 
-They run on pretty much every platform (VirtualBox, Vagrant, VMware, etc. ) and go to IE8 on Windows 7. 
+They run on pretty much every platform (VirtualBox, Vagrant, VMware, etc. ) and they go all the way back to IE8 on Windows 7. 
 
 
 
