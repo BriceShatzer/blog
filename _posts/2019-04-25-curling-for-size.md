@@ -2,6 +2,7 @@
 layout: post
 title:  "Check a File's Size With This Simple Command-line Function"
 date:   2019-04-25 12:00:00 -0500
+categories: development
 tags: bash curl command-line
 description: "A simple function to put in your .bashrc file to quickly get the size of files via curl"
 ---

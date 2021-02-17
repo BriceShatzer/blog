@@ -5,6 +5,7 @@ redirect_from:
     - /amazon/ads/publishing/2018/07/09/params-for-amazon-native-shopping-ads/
     - /amazon/ads/publishing/2018/07/09/params-for-amazon-native-shopping-ads.html
 date:   2018-07-09 12:00:00 -0500
+categories: development
 tags: Amazon ads publishing
 description: "The documentation that should exist on the parameters that can be set for the Amazon Affiliate Native Shopping Ads."
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Notes from CascadiaJS 2020"
 date:   2020-09-02 12:00:00 -0500
+categories: development
 tags: CascadiaJS javascript conference
 description: "Some of my favorite talks, highlights, and things I found interesting from CascadiaJS 2020, along with a collection of links to all of the talks that took place."  
 ---
