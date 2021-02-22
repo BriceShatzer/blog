@@ -49,6 +49,10 @@ Allows you to calculate the missing value of an image based on its original aspe
 
 ## Programmer & Coding Things
 
+### [MacOS Setup Guide](https://sourabhbajaj.com/mac-setup/)  
+This has been my go-to guide for setting up a Mac machine for development work for the past 5 years. It covers everything from basic stuff like installing [Homebrew](https://brew.sh/) & [iTerm](https://iterm2.com/) installed to more involved topics like Ruby & Node version management with `rvm/nvm`. More than anything else it's a good general checklist to prevent you from running into a road blocks down the road because you forgot to install something basic you needed. 
+![MacOS Setup Guide]({{ "/assets/post-files/2021-02-05-Clever-Sites/macos-setup.png" | relative_url }})
+
 ### [Regexr](https://regexr.com/)  
 When I was first starting out, I asked one of the other developers I was working with what programing language I should learn. His response, "It doesn't matter, just get really good at regular expression. They all do that." Regexr lets you visualize what your expression is matching and capturing while you're constructing it, in addition to providing a cheatsheet and common patterns.  
 ![Regexr.com]({{ "/assets/post-files/2021-02-05-Clever-Sites/regexr.png" | relative_url }})
