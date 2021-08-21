@@ -159,6 +159,11 @@ body {
         line-height: 1.25;
     }
     .meta {font-size: 80%;}
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 #home .posts {
