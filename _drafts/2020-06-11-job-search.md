@@ -27,18 +27,15 @@ description: "description"
     - virtual on-site  
 
 **What Happened?:** 
-After failing to fully complete either of the 2 HackerRank, I was surprised when the recruiter 
+After failing to fully complete either of the 2 HackerRank, I was surprised when the recruiter called back. 
 
 I spent an inordinate amount of time talking negatively about React to the 
 
-The the week prior had been occupied with prepping for and subsequently failing the Amazon on-site. The due date for the Microsoft coding assignment I had been assigned was that following Monday, so I had spent the weekend 
-
-I had been up all night p
-I also talked
+The the week prior had been occupied with prepping for and subsequently failing the Amazon on-site. The due date for the Microsoft coding assignment I had been assigned was that following Monday, so I had spent the weekend working on that and had been up all night finishing that. 
 
 
 ## Amazon / AWS Partner team 
-**Who?:** [They](https://www.glassdoor.com/) allow current/former employees to rate & review employers, while also assisting companies in recruiting & hiring.  
+**Who?:** 
 **Job:** Front End Engineer II  
 **Source:** [Hired](https://hired.com/x/4g305)  
 **Process:** 
