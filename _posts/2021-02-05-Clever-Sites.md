@@ -73,6 +73,14 @@ The linting/hinting that most of use know and love from our favorite IDEs, but i
 
 ![JSHint in action]({{ "/assets/post-files/2021-02-05-Clever-Sites/jshint.gif" | relative_url }})
 
+<!-- 
+
+May need to add "Dan's Tools" 
+
+### [CSS Font Stack](https://www.cssfontstack.com/)
+This site has been around for...
+![CSS Fonts - Arial]({{ "/assets/post-files/2021-02-05-Clever-Sites/FontStack.png" | relative_url }})
+-->
 
 ### [BrowserHacks](http://browserhacks.com/)
 Y'all remember conditional comments?
