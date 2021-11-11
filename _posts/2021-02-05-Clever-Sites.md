@@ -50,7 +50,7 @@ Allows you to calculate the missing value of an image based on its original aspe
 ## Programmer & Coding Things
 
 ### [MacOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
-This has been my go-to guide for setting up a Mac machine for development work for the past 5 years. It covers everything from basic stuff like installing [Homebrew](https://brew.sh/) & [iTerm](https://iterm2.com/) installed to more involved topics like Ruby & Node version management with `rvm/nvm`. More than anything else it's a good general checklist to prevent you from running into a road blocks down the road because you forgot to install something basic you needed.
+This has been my go-to guide for setting up a Mac machine for development work for the past 5 years. It covers everything from basic stuff like installing [Homebrew](https://brew.sh/) & [iTerm](https://iterm2.com/) to more involved topics like Ruby & Node version management with `rvm/nvm`. More than anything else it's a good general checklist to prevent you from running into a road blocks down the road because you forgot to install something basic you needed.
 ![MacOS Setup Guide]({{ "/assets/post-files/2021-02-05-Clever-Sites/macos-setup.png" | relative_url }})
 
 ### [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
