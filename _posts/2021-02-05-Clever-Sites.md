@@ -27,7 +27,7 @@ There are tools for [visual/design](#visual--design-things), [coding](#programme
 ## Visual & Design Things
 
 ### [Pixlr](https://pixlr.com/e/): Photoshop for free on the internet
-Pixlr is free, runs in the browser, and accomplishes 80% to 90% of the stuff that most people would ever want to do in Photoshop. It's got layers, masking, transforms, clone stamping...literally all the things.
+Pixlr is free, runs in the browser, and accomplishes 80% to 90% of the stuff that most people would ever want to do in Photoshop. It's got layers, masking, transforms, clone stamping...literally all the things. An alternative is [Photopea](https://www.photopea.com/), which provides a lot of the same tools, but also allows you to open native file types like `.psd` & `.ai`.  
 
 ![Pixlr editor]({{ "/assets/post-files/2021-02-05-Clever-Sites/pixlr.jpg" | relative_url }})
 
