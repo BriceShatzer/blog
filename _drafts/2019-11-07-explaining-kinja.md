@@ -4,9 +4,10 @@ title:  "Explaining Kinja"
 date:   2019-11-07 12:30:00 -0500
 tags:  kinja
 categories: development
-description: " Description here "
+description: "A discussion of the beautiful  A Description here "
 ---
 
+*This post was originally started in 2019 & I'm just now getting around to finishing it. Some of the technical specifics may have changed*
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kinja is at this point the absolute best CMS though... nobody discusses this</p>&mdash; Anna Merlan (@annamerlan) <a href="https://twitter.com/annamerlan/status/1191429517769953282?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote>
@@ -60,6 +61,9 @@ This is built using [React](https://reactjs.org/), [Flow](https://flow.org/), an
 
 Working on Kinja from software engineering perspective, is 
 
+
+### Doing it live.  
+<!-- Doing it live. An alternative, production-only workflow. -->
 Throughout the various iterations of Kinja, there has always been one peculiarity that manages to shock/confuse/dismay every single new developer who is asked to work it on it: 
 _**There is only production.**_  
 
@@ -110,9 +114,9 @@ Mantle/Magma could be run locally,
 
 Development can do 
 
-- https://martinfowler.com/articles/feature-toggles.html
-- https://martinfowler.com/bliki/FeatureToggle.html
-- https://martinfowler.com/bliki/FeatureBranch.html
+- https://martinfowler.com/articles/feature-toggles.html  ([archive](https://web.archive.org/web/20220214172458/https://martinfowler.com/articles/feature-toggles.html))
+- https://martinfowler.com/bliki/FeatureToggle.html ([archive](https://web.archive.org/web/20220227213203/https://martinfowler.com/bliki/FeatureToggle.html))
+- https://martinfowler.com/bliki/FeatureBranch.html ([archive](https://web.archive.org/web/20220118053934/https://martinfowler.com/bliki/FeatureBranch.html))
 
 <!--     
 
