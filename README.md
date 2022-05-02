@@ -58,19 +58,14 @@ Throughout my professional life, I've never received a piece of negative feedbac
 Also, I'm not greatest at receiving positive feedback. I'm naturally self-deprecating. It's just another one of those things I'm continually trying to get better at. 
 
 **Giving:**  
-Historically, I generally haven't provide feedback about/to others unless explicitly prompted to. As I've grown in my career and worked in a more supervisory capacity, I find myself delighting in seeking out opportunities to praise those around me. Luckily, I've had the opportunity to work with some incredibly talented people, so those opportunities occur rather frequently.
+I generally haven't provide feedback about/to others unless explicitly prompted to, but as I've grown in my career and worked in a more supervisory capacity, I find myself delighting in seeking out opportunities to praise those around me. Luckily, I've had the opportunity to work with some incredibly talented people, so those opportunities occur rather frequently.
 
 
 
 # Career Goals 
 My oldest professional motivation and one of my greatest fears is becoming a [code monkey](https://en.wikipedia.org/wiki/Code_monkey) that simply acts as an unthinking tool that takes in specs and spits out code. 
 
-As I've progressed in my career I've found that mentoring and working with others has been some of the most rewarding things that I've done. 
-
-Beyond solving individual problems, I've come to appreciate the more administrative and organizational side of work. I've flirted with the idea of getting an MBA and certainly wouldn't be surprised if my career eventually headed in that general direction at some point. 
-
-
-
+As I've progressed in my career I've found that mentoring and working with others has been some of the most rewarding things that I've done and I've come to appreciate the more administrative and organizational side of software development. That being said, it's probably not very surprising that I want my career to head in the general direction of managing engineers and engineering teams. 
 # What makes me tick...
 
 I deeply value learning and if [all learning is remembering](https://philosophy.stackexchange.com/questions/45599/origin-of-proverb-all-learning-is-remembering), it's probably not surprising that I absolutely adore documentation and think that it is [criminally under utilized](https://twitter.com/patio11/status/1014748989806145536).  
