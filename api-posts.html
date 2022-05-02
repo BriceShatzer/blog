@@ -8,8 +8,8 @@ permalink: /posts
       "date": "{{ post.date | date: '%B %d, %Y' }}",
       "title": "{{ post.title }}",
       "description": "{{ post.description }}",
-      "tags": "{{ post.tags | jsonify }}",
-      "categories": "{{ post.categories | jsonify }}",
+      "tags": {{ post.tags | jsonify }},
+      "categories": {{ post.categories | jsonify }},
       "url": "https://briceshatzer.com/blog{{ post.url }}",
       "slug": "{{ post.slug }}"
     }
