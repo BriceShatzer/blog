@@ -34,15 +34,14 @@ Outside of usual work hours, I'm usually reachable on Slack via DM most of the t
 
 ## A General Note
 
+<!-- 
 I have a tendency to excessively question things. I'm aware this has the potential to give off the impression that I'm an incredibly pessimistic and cynical, which I feel isn't the case. 
 
 I view disagreement and conflict as an almost universally healthy and positive things. Any time that I engaging in those sorts of dialogs, please understand that it isn't coming from a place of malice, negativity, or contrarianism. It's just my way of understanding why something is the way that it is and trying to arrive at the most positive outcome.
 
 I also admittedly lack a degree of emotional intelligence, which means I can inadvertently say or act in a way that is far more abrasive or biting than I had intended. 
-
-Both of these are things I'm continually working on. 
-
-That being said, if I ever do or say anything that makes you feel uncomfortable or is negatively impacting you, tell me. Preferably like [this](#feedback).
+-->
+Historically, there have been a few instances where I have lacked a degree of emotional intelligence. This has manifested in inadvertently saying or acting in a way that was far more abrasive or biting than I had intended. Thankful this hasn't really been an issue in recent years, but if I ever do or say anything that makes you feel uncomfortable or is negatively impacting you, *please* tell me. Preferably like [this](#feedback).
 
 ## Methods  
 
@@ -66,17 +65,18 @@ Throughout my professional life, I've never received a piece of negative feedbac
 Also, I'm not greatest at receiving positive feedback. I'm naturally self-deprecating. It's just another one of those things I'm continually trying to get better at. 
 
 **Giving:**  
-Unless there is major issue occurring, I generally won't provide feedback about/to others unless explicitly prompted to. 
+Historically, I generally haven't provide feedback about/to others unless explicitly prompted to. As I've grown in my career and worked in a more supervisory capacity, I find myself delighting in seeking out opportunities to praise those around me. Luckily, I've had the opportunity to work with some incredibly talented people, so those opportunities occur rather frequently.
 
 
 
 # Career Goals 
 My oldest professional motivation and one of my greatest fears is becoming a [code monkey](https://en.wikipedia.org/wiki/Code_monkey) that simply acts as an unthinking tool that takes in specs and spits out code. 
 
-That being said, it's probably unsurprising that I find being asked to provide my opinion on a subjective question to be one of the more rewarding things that can occur during my day. Ideally, I would like my career to progress in a way that affords me the opportunity for that situation to occur in a progressively more frequent way. 
+As I've progressed in my career I've found that mentoring and working with others has been some of the most rewarding things that I've done. 
 
 Beyond solving individual problems, I've come to appreciate the more administrative and organizational side of work. I've flirted with the idea of getting an MBA and certainly wouldn't be surprised if my career eventually headed in that general direction at some point. 
 
+<!-- That being said, it's probably unsurprising that I find being asked to provide my opinion on a subjective question to be one of the more rewarding things that can occur during my day. Ideally, I would like my career to progress in a way that affords me the opportunity for that situation to occur in a progressively more frequent way.  -->
 
 
 # What makes me tick...
@@ -149,8 +149,8 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
 <br />
 
 # All the places to find me online
-<!-- <section style="display: flex; justify-content: space-around"> -->
-<section style=""> 
+<section style="display: flex; justify-content: space-around">
+<!-- <section style="">  -->
   <a href="http://briceshatzer.com" target="_blank" rel="noopener">
     <img src="https://i.imgur.com/5xb1L4M.png" width="50px" />
   </a>&nbsp;
