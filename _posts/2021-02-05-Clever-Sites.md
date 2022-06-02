@@ -17,6 +17,7 @@ description: "A collection of sites I've found useful over the course of my care
     	vertical-align: middle;
     	width: 20%;
 	}
+	img[alt="Boxy SVG editor"]{max-width: 720px;}
 </style>
 
 A small collection of sites/services/resources that I've found useful throughout my career in web dev.
@@ -30,6 +31,11 @@ There are tools for [visual/design](#visual--design-things), [coding](#programme
 Pixlr is free, runs in the browser, and accomplishes 80% to 90% of the stuff that most people would ever want to do in Photoshop. It's got layers, masking, transforms, clone stamping...literally all the things. An alternative is [Photopea](https://www.photopea.com/), which provides a lot of the same tools, but also allows you to open native file types like `.psd` & `.ai`.  
 
 ![Pixlr editor]({{ "/assets/post-files/2021-02-05-Clever-Sites/pixlr.jpg" | relative_url }})
+
+### [Boxy SVG](https://boxy-svg.com/): Free online SVG editor  
+Boxy SVG is a free, easy to use, and pretty robust SVG editor. You do have to create an account to export or save anything, but it does allow you to generate alternative file types (png,jpg,etc). It also includes a really neat generator feature that allows you to create valid barcodes & QR codes, jigsaw puzzle templates, parliament charts, or printing marks. 
+
+![Boxy SVG editor]({{ "/assets/post-files/2021-02-05-Clever-Sites/boxysvg.svg" | relative_url }})
 
 ### Easily Make Diagrams w/ [Excalidraw](https://excalidraw.com/)
 Excalidraw lets you easily make "white-board" style diagrams that look great. It's completely free, [open-source](https://github.com/excalidraw/excalidraw), and even has a community of folks making libraries of shapes & objects that you can use as well.
