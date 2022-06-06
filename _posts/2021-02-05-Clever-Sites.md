@@ -32,10 +32,22 @@ Pixlr is free, runs in the browser, and accomplishes 80% to 90% of the stuff tha
 
 ![Pixlr editor]({{ "/assets/post-files/2021-02-05-Clever-Sites/pixlr.jpg" | relative_url }})
 
-### [Boxy SVG](https://boxy-svg.com/): Free online SVG editor  
+### [Boxy SVG](https://boxy-svg.com/): Free online SVG editor
 Boxy SVG is a free, easy to use, and pretty robust SVG editor. You do have to create an account to export or save anything, but it does allow you to generate alternative file types (png,jpg,etc). It also includes a really neat generator feature that allows you to create valid barcodes & QR codes, jigsaw puzzle templates, parliament charts, or printing marks. 
 
 ![Boxy SVG editor]({{ "/assets/post-files/2021-02-05-Clever-Sites/boxysvg.svg" | relative_url }})
+
+### ...and if you plan on putting SVGs on the internet you need to use [OMG-SVG](https://jakearchibald.github.io/svgomg/)
+If you look at the code behind SVGs that are created using design tools like Photoshop or Illustrator (or even [Boxy SVG](#boxy-svg-free-online-svg-editor)), it's kind of a mess. Meaningless metadate, repeating styles, unneccesarily specific coordinate values, and more all conspire to bloat a file to multiple times larger than it needs to be. 
+
+That's where OMG-SVG comes in. Created by the always entertaining [Jake Archibald](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9), it takes the SVG optimizer tool [SVGO](https://github.com/jakearchibald/svgomg), that would normally run as part of [build/deploy process or toolchain](https://github.com/svg/svgo#other-ways-to-use-svgo) and turns it into a web app with a simple user interface. It works really well and is completely [open-source](https://github.com/jakearchibald/svgomg).
+
+
+It's worth noting that if you're trying to [include an SVGs directly in JSX](https://www.sanity.io/guides/import-svg-files-in-react#c125367dce7c), TypeScript doesn't like you using the the style attribute <a href="https://i.imgur.com/frvYR1v.png" target="_blank">apparently</a>? OMG-SVG allows you to convert those styles to their appropriate attribute values, making them JSX safe.    
+
+
+
+
 
 ### Easily Make Diagrams w/ [Excalidraw](https://excalidraw.com/)
 Excalidraw lets you easily make "white-board" style diagrams that look great. It's completely free, [open-source](https://github.com/excalidraw/excalidraw), and even has a community of folks making libraries of shapes & objects that you can use as well.
