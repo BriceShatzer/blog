@@ -1,6 +1,12 @@
 <section class="page-header">
     <div>
-        <h1 class="project-name"><a href="{{ "/" | relative_url }}"">{{ site.title }}</a></h1>
+        <h1 class="project-name">
+            {% if  page.landingPageTitle %}
+                {{ page.landingPageTitle }}
+            {% else %}
+                <a href="{{ "/" | relative_url }}"">{{ site.title }}</a>
+            {% endif %}
+        </h1>
        <!--  <h2 class="project-tagline">{{ site.tagline }}</h2> -->
     </div>
     <a class="home-link" href="http://BriceShatzer.com">
