@@ -9,7 +9,7 @@ permalink: readme.html
 
 # What is this? 
 
-While a part of a team working on [some of the best sites in the world](https://g-omedia.com/brands), our amazing and talented project manager [Caiti Vincel](https://www.linkedin.com/in/caitistout/) suggested that we each put together a "README" document. Basically, a user manual about how we as individuals prefer to work and communicate, and just generally what makes us tick.
+While a part of a team working on [some of the best sites in the world](https://g-omedia.com/brands/), our amazing and talented project manager [Caiti Vincel](https://www.linkedin.com/in/caitistout/) suggested that we each put together a "README" document. Basically, a user manual about how we as individuals prefer to work and communicate, and just generally what makes us tick.
 
 [This blog post](https://soapboxhq.com/blog/modern-manager-community/how-to-set-expectations-with-your-team) goes into the topic of a writing a document like this more in depth, and here are [some](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/) [other](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/) [great](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg) [examples](http://randsinrepose.com/archives/how-to-rands/) of this sort of thing. 
 
@@ -19,7 +19,7 @@ Below you will find my version. This document is intended to be an ever-evolving
 # Backstory... 
 I grew up in [small-town Iowa](https://en.wikipedia.org/wiki/Hudson,_Iowa) and after spending 12 years with the same [56 kids](https://i.imgur.com/5w5boDs.jpg), I decided to head out of state for my degree, attending [Carthage College](https://www.carthage.edu/about/) in Kenosha, Wisconsin. There I played [soccer](https://athletics.carthage.edu/sports/mens-soccer), wrote for the school paper, and was active in Greek life as member of [TKE](https://www.tke.org/about), before finally receiving a BA in Communication/Digital Media. 
 
-Currently, I live in [Chicago](https://www.google.com/maps/place/200+W+Grand+Ave,+Chicago,+IL+60654/@41.8916151,-87.634402,3a,75y,351.45h,118.43t/data=!3m6!1e1!3m4!1ssrlwwXdQDBlur7qz4UjZAw!2e0!7i16384!8i8192!4m5!3m4!1s0x880e2cb46a543025:0xfe3a73791db677c0!8m2!3d41.8918775!4d-87.6344475) with [my two adorable puppers](https://photos.app.goo.gl/9LVmjXLRVHGwaL5DA).  I enjoy reading, trying to stay active (table tennis, flag football, & soccer), and playing unreasonable amounts of [video games](https://steamcommunity.com/id/briceshatzer/) & [cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering). 
+Currently, I live in [Chicago](https://www.google.com/maps/place/200+W+Grand+Ave,+Chicago,+IL+60654/@41.8916151,-87.634402,3a,75y,351.45h,118.43t/data=!3m6!1e1!3m4!1ssrlwwXdQDBlur7qz4UjZAw!2e0!7i16384!8i8192!4m5!3m4!1s0x880e2cb46a543025:0xfe3a73791db677c0!8m2!3d41.8918775!4d-87.6344475) with [my two adorable puppies](https://photos.app.goo.gl/9LVmjXLRVHGwaL5DA).  I enjoy reading, trying to stay active (table tennis, flag football, & soccer), and playing unreasonable amounts of [video games](https://steamcommunity.com/id/briceshatzer/) & [cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering). 
 
 # Working Hours  
 
@@ -70,7 +70,7 @@ As I've progressed in my career I've found that mentoring and working with other
 
 I deeply value learning and if [all learning is remembering](https://philosophy.stackexchange.com/questions/45599/origin-of-proverb-all-learning-is-remembering), it's probably not surprising that I absolutely adore documentation and think that it is [criminally under utilized](https://twitter.com/patio11/status/1014748989806145536).  
 
-Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify strongly with the Myers–Briggs Type Indicator ([INTJ](https://www.16personalities.com/intj-personality)) & the associated [Keirsey role](https://en.wikipedia.org/wiki/Mastermind_(role_variant)) and feel that archetype accurately conveys how I think and operate. Some quotes that I feel resonate particularly strongly with how I perceive myself:  
+Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify strongly with the Myers–Briggs Type Indicator ([INTJ](https://www.16personalities.com/intj-personality)) & the associated [Keirsey role](https://keirsey.com/temperament/rational-mastermind/) and feel that archetype accurately conveys how I think and operate. Some quotes that I feel resonate particularly strongly with how I perceive myself:  
 
 >"They are able to live by glaring contradictions that nonetheless make perfect sense – at least from a purely rational perspective. For example, they are simultaneously the most starry-eyed idealists and the bitterest of cynics, a seemingly impossible conflict."
 
@@ -88,10 +88,10 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
             <a href="https://www.wizardingworld.com/news/discover-your-hogwarts-house-on-wizarding-world" target="_blank"><img src="https://i.imgur.com/FRjXHAw.png" width="150px" /></a>
         </td>
         <td>
-            <a href="https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-12/15/16/enhanced/webdr09/anigif_enhanced-5673-1450213488-30.gif" width="150px" /></a>
-        </td>
-        <td>
             <a href="https://www.buzzfeed.com/lyapalater/are-you-a-carrie-samantha-charlotte-or-miranda" target="_blank"><img src="https://cdn-images-1.medium.com/max/1600/1*OOJ99p7sHMIMBp3WZZVHEg.jpeg" width="150px"/> </a>
+        </td>        
+        <td>
+            <a href="https://web.archive.org/web/20140312233740/https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-12/15/16/enhanced/webdr09/anigif_enhanced-5673-1450213488-30.gif" width="150px" /></a>
         </td>
     </tr>
     <tr>
@@ -99,11 +99,10 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
             <a href="https://www.wizardingworld.com/news/discover-your-hogwarts-house-on-wizarding-world" target="_blank">Ravenclaw</a>
         </td>
         <td>
-            <a href="https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you">Donatello</a>
+            <a href="https://www.buzzfeed.com/lyapalater/are-you-a-carrie-samantha-charlotte-or-miranda" target="_blank">Miranda</a>
         </td>
-        <td><a href="https://www.buzzfeed.com/lyapalater/are-you-a-carrie-samantha-charlotte-or-miranda" target="_blank">
-            Miranda 
-        </a>
+        <td>
+            <a href="https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you">Donatello</a>
         </td>
     </tr>
     <tr>
