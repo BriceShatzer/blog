@@ -1,0 +1,30 @@
+---
+layout: page
+title: BriceShatzer.com - "Pay With Venmo"
+categories: portfolio
+tags: javascript QRCode Venmp PayPal React
+---
+
+<h2 class="post-title">Pay With Venmo</h2>
+
+<p>
+    As the parent company of Venmo, PayPal wanted the ability for Venmo users to complete checkout transactions using their Venmo account as a funding source.
+</p>
+<p>
+    For this to occur, the user must be able to authorize the transaction in their Venmo app. We do this by generating an app-specific url which will launch the Venmo app on the user's device in a way that allows it to interact with a Firebase backend which manages the state & relationship between the particular PayPal Checkout SDK being used and the app, regarding the transaction that is currently in the process of being authorized. 
+</p>
+<p>
+    In the event that the checkout process is occurring in an environment where the Venmo app isn't available (such as on desktop), we generate a QR Code which is readable by the Venmo app and launches the authorization flow for that transaction. 
+</p>
+<p>
+    Finally, all of <a href="https://github.com/paypal/paypal-smart-payment-buttons/pull/158/files" rel="noreferrer">this built out functionality</a> needed to be <a href="https://github.com/paypal/paypal-checkout-components/pull/1632/files" rel="noreferrer">integrated</a> into the broader <a href="https://github.com/paypal/paypal-checkout-components" rel="noreferrer">PayPal Checkout Web SDK</a>, enabling it to be run in a cross-domain manner. 
+</p>
+<p>
+    I served as the primary developer and point of contact for the Checkout Integrations team, building out the web implementation portions of the solution.
+</p>
+<br />
+<video autoplay loop muted playsinline style="text-align: center; display: block;">
+    <source src="/blog/assets/page-files/pay-with-venmo.mp4" type="video/mp4">
+</video>     
+
+
