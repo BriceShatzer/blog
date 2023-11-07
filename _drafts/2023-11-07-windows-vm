@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Windows VM on M1/M2/M3 mac"
+date:   2023-11-07 12:00:00 -0500
+categories: development
+description: "Getting old versions of Windows to run on a mac"
+---
+## This used to be a easy...
+
+This all used to be a lot easier when macs ran on intel architecture. Now it kinda sucks.  
+
+### Links  
+- [Windows 11 VMS from Microsoft](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) 
+- [Parallels](https://www.parallels.com/products/desktop/welcome-trial/)
+- [Test Builds of virtualbox](https://www.virtualbox.org/wiki/Testbuilds) **apperently it sucks and is hard?**
+
