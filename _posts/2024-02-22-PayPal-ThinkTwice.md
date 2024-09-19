@@ -4,13 +4,13 @@ title:  "Think Twice: High-Stakes Change Control at PayPal"
 date:   2024-02-22 12:00:00 -0500
 categories: development
 tags: testing javascript PayPal CI/CD
-description: PayPal experienced 971 seconds (16:11) of ATB (availability to the business) downtime, leading to ~350,000 failed transactions and $400k in lost revenue. In response, they launched a mandatory, recurring training program for software engineers called "Think Twice".
+description: "PayPal experienced 971 seconds (16:11) of ATB (availability to the business) downtime, leading to ~350,000 failed transactions and $400k in lost revenue. In response, they launched a mandatory, recurring training program for software engineers called Think Twice."
 ---
 
 
 
 
-PayPal experienced 971 seconds (16:11) of ATB (availability to the business) downtime, leading to ~350,000 failed transactions and $400k in lost revenue. In response, they launched a mandatory, recurring training program for software engineers called "Think Twice". Below are my notes from that program.
+PayPal experienced 971 seconds (16:11) of ATB (availability to the business) downtime, leading to ~350,000 failed transactions and $400k in lost revenue. The root cause was determined to be a faulty software change with the extended length of the outage being caused by inadequate rollback planning. In response, they launched a mandatory, recurring training program for software engineers called "Think Twice". Below are my notes from that program.
 
 
 --- 
