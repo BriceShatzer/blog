@@ -143,9 +143,6 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
   <a href="http://www.linkedin.com/pub/brice-shatzer/16/690/b26/" target="_blank" rel="noopener noreferrer">
     <img src="https://simpleicons.org/icons/linkedin.svg" width="50px"/>
   </a>&nbsp;
-  <a href="https://twitter.com/_shatzer" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/twitter.svg" width="50px" />
-  </a>&nbsp;
   <a href="https://github.com/briceshatzer" target="_blank" rel="noopener noreferrer">
     <img src="https://simpleicons.org/icons/github.svg" width="50px" />
   </a>&nbsp;
