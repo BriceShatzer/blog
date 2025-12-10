@@ -17,9 +17,12 @@ Below you will find my version. This document is intended to be an ever-evolving
 
 
 # Backstory... 
-I grew up in [small-town Iowa](https://en.wikipedia.org/wiki/Hudson,_Iowa) and after spending 12 years with the same [56 kids](https://i.imgur.com/5w5boDs.jpg), I decided to head out of state for my degree, attending [Carthage College](https://www.carthage.edu/about/) in Kenosha, Wisconsin. There I played [soccer](https://athletics.carthage.edu/sports/mens-soccer), wrote for the school paper, and was active in Greek life as member of [TKE](https://www.tke.org/about), before finally receiving a BA in Communication/Digital Media. 
+I grew up in [small-town Iowa](https://en.wikipedia.org/wiki/Hudson,_Iowa) and after spending 12 years with the same [56 kids](https://i.imgur.com/5w5boDs.jpg), I decided to head out of state for my degree, attending [Carthage College](https://www.carthage.edu/about/) in Kenosha, Wisconsin. There I played [soccer](https://athletics.carthage.edu/sports/mens-soccer), wrote for the school paper, and was active in [Greek life](https://www.tke.org/about), before finally receiving a BA in Communication/Digital Media. 
 
-Currently, I live in [Chicago](https://www.google.com/maps/place/200+W+Grand+Ave,+Chicago,+IL+60654/@41.8916151,-87.634402,3a,75y,351.45h,118.43t/data=!3m6!1e1!3m4!1ssrlwwXdQDBlur7qz4UjZAw!2e0!7i16384!8i8192!4m5!3m4!1s0x880e2cb46a543025:0xfe3a73791db677c0!8m2!3d41.8918775!4d-87.6344475) with [my two adorable puppies](https://photos.app.goo.gl/9LVmjXLRVHGwaL5DA).  I enjoy reading, trying to stay active (table tennis, flag football, & soccer), and playing unreasonable amounts of [video games](https://steamcommunity.com/id/briceshatzer/) & [cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering). 
+Currently, I live in [Chicago](https://www.google.com/maps/place/200+W+Grand+Ave,+Chicago,+IL+60654/@41.8916151,-87.634402,3a,75y,351.45h,118.43t/data=!3m6!1e1!3m4!1ssrlwwXdQDBlur7qz4UjZAw!2e0!7i16384!8i8192!4m5!3m4!1s0x880e2cb46a543025:0xfe3a73791db677c0!8m2!3d41.8918775!4d-87.6344475) with [my two adorable puppies](https://photos.app.goo.gl/9LVmjXLRVHGwaL5DA). 
+
+
+ I enjoy spending time watching/reading stuff, hanging out with my puppies, caring waaay to much about a [mediocre soccer team](https://www.chicagofirefc.com/), and occasionally playing [video games](https://steamcommunity.com/id/briceshatzer/) & [cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering). 
 
 # Working Hours  
 
@@ -38,7 +41,7 @@ Historically, there have been a few instances where I have lacked a degree of em
 
 ## Methods  
 
-**One-to-Many:**  
+**One-to-Many**  
 While I'm not particularly uncomfortable giving oral presentations, I feel I'm far more effective at disseminating information via written forms of communication like documentation or a CCed email.  
 
 
@@ -62,11 +65,12 @@ I generally haven't provide feedback about/to others unless explicitly prompted 
 
 
 
-# Career Goals 
+# Career Goals  
 My oldest professional motivation and one of my greatest fears is becoming a [code monkey](https://en.wikipedia.org/wiki/Code_monkey) that simply acts as an unthinking tool that takes in specs and spits out code. 
 
-As I've progressed in my career I've found that mentoring and working with others has been some of the most rewarding things that I've done and I've come to appreciate the more administrative and organizational side of software development. That being said, it's probably not very surprising that I want my career to head in the general direction of managing engineers and engineering teams. 
-# What makes me tick...
+As I've progressed in my career I've found that mentoring and working with others has been some of the most rewarding things that I've done and I've come to appreciate the more administrative and organizational side of software development. That being said, it's probably not very surprising that I want my career to head in the general direction of managing engineers and engineering teams.   
+
+# What makes me tick...  
 
 I deeply value learning and if [all learning is remembering](https://philosophy.stackexchange.com/questions/45599/origin-of-proverb-all-learning-is-remembering), it's probably not surprising that I absolutely adore documentation and think that it is [criminally under utilized](https://twitter.com/patio11/status/1014748989806145536).  
 
@@ -138,22 +142,23 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
 <section style="display: flex; justify-content: space-around">
 <!-- <section style="">  -->
   <a href="http://briceshatzer.com" target="_blank" rel="noopener">
-    <img src="https://i.imgur.com/5xb1L4M.png" width="50px" />
+    <img src="https://i.imgur.com/5xb1L4M.png" height="50px" />
   </a>&nbsp;
   <a href="http://www.linkedin.com/pub/brice-shatzer/16/690/b26/" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/linkedin.svg" width="50px"/>
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath d='M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z'/%3E%3C/svg%3E"  height="50px" />
   </a>&nbsp;
   <a href="https://github.com/briceshatzer" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/github.svg" width="50px" />
+    <img src="https://simpleicons.org/icons/github.svg" height="50px" />
   </a>&nbsp;
   <a href="http://stackoverflow.com/users/1608016/brice-shatzer" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/stackoverflow.svg" width="50px" />
+    <img src="https://simpleicons.org/icons/stackoverflow.svg" height="50px" />
   </a>&nbsp;
   <a href="http://codepen.io/BriceShatzer/" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/codepen.svg" width="50px" />
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath d='m502.3 159.7-234-156c-8-4.9-16.5-5-24.6 0l-234 156c-6 4-9.7 11.1-9.7 18.3v156c0 7.1 3.7 14.3 9.7 18.3l234 156c8 4.9 16.5 5 24.6 0l234-156c6-4 9.7-11.1 9.7-18.3V178c0-7.1-3.7-14.3-9.7-18.3M278 63.1 450.3 178l-76.9 51.4-95.4-63.7zm-44 0v102.6l-95.4 63.7L61.7 178zm-190 156L99.1 256 44 292.8zm190 229.7L61.7 334l76.9-51.4 95.4 63.7zM256 308l-77.7-52 77.7-52 77.7 52zm22 140.9V346.3l95.4-63.7 76.9 51.4zm190-156L412.9 256l55.1-36.9v73.7z'/%3E%3C/svg%3E" height="50px" />
+    <!-- <img src="https://simpleicons.org/icons/codepen.svg" height="50px" /> -->
   </a>&nbsp;
   <a href="http://briceshatzer.com/blog">
 <!--        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ei-pencil.svg/512px-Ei-pencil.svg.png" width="50px" /> -->
-    <img src="https://i.imgur.com/RziGF8U.png" width="50px" />
+    <img src="https://i.imgur.com/RziGF8U.png" height="50px" />
   </a>
 </section>
