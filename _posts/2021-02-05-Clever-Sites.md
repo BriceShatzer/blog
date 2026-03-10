@@ -20,6 +20,22 @@ description: "A collection of sites I've found useful over the course of my care
 	img[alt="Boxy SVG editor"]{max-width: 720px;}
 </style>
 
+
+<!-- 
+
+Things to update this with: 
+
+video editor - https://opencut.app/
+PDF editor - https://www.stirling.com/
+CSV viewer - https://csv-viewer-online.github.io/
+office suite - https://www.onlyoffice.com/
+image compresser - https://squoosh.app/
+
+
+--->
+
+
+
 A small collection of sites/services/resources that I've found useful throughout my career in web dev.
 There are tools for [visual/design](#visual--design-things), [coding](#programmer--coding-things), [audio/video](#audiovideo-things) and [DevOps & routing](#routing--devops-sort-of-things).
 
