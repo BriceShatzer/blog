@@ -10,7 +10,7 @@ categories: development
 description: " An article written for the Doejo blog that discusses some strategies around using JavaScript to painlessly audit an unfamiliar front-end code base, with the goal of uncovering idiosyncrasies and flaws that could potentially cause issues maintaining or enhancing the project going forward. "
 ---
 
-**TL;DR:** _You can use JavaScript to easily audit the media queries that are present in your project. This could potentially [provide insight](#analyzing) into portions of your styling that might need to be examined more closely. Don't care about the rational behind doing something like this and are just looking for a snippet? [Head here.](#code)_  
+**TL;DR:** _You can use JavaScript to easily audit the media queries that are present in your project. This could potentially [provide insight](#analyzing-the-results) into portions of your styling that might need to be examined more closely. Don't care about the rational behind doing something like this and are just looking for a snippet? [Head here.](#code)_  
 
 While the overall [thoughtfulness around how front ends are built](http://shop.oreilly.com/product/0636920040156.do) has improved in recent years, generally speaking, styling simply isn't treated with the same amount of care and consideration as other parts of the front-end stack. Marry this apathy with tools like Sass/LESS/Stylus which enable developers to easily write complex and powerful CSS, and it's easy to envision the sort of tangled, nightmarish abomination that might exist in this world.  
 
