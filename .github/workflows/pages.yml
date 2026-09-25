@@ -12,10 +12,12 @@ permissions:
   pages: write
   id-token: write
 
-# One deployment at a time; never cancel a production deploy mid-flight.
+# Deploys share one serial group so a production deploy is never cancelled mid-flight.
+# PR builds get their own per-ref group -- otherwise every open PR contends for `pages`
+# and GitHub cancels all but one of them.
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: ${{ github.event_name == 'pull_request' && format('pages-pr-{0}', github.ref) || 'pages' }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   build:
@@ -110,13 +112,16 @@ jobs:
           npx -y http-server ./_serve -p 4000 --silent &
           npx -y wait-on http://127.0.0.1:4000/blog/index.html
 
-      - name: axe
+      - name: Accessibility (axe)
         run: |
-          npx -y @axe-core/cli@4 --exit \
+          npm install --no-save --no-package-lock playwright axe-core
+          npx playwright install --with-deps chromium
+          node script/a11y.mjs \
             http://127.0.0.1:4000/blog/ \
             http://127.0.0.1:4000/blog/2024-02-22-PayPal-ThinkTwice.html \
             http://127.0.0.1:4000/blog/readme.html \
-            http://127.0.0.1:4000/blog/404.html
+            http://127.0.0.1:4000/blog/404.html \
+            http://127.0.0.1:4000/blog/pay-with-venmo.html
 
   deploy:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
