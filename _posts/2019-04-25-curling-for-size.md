@@ -20,7 +20,8 @@ Basically it is just a simple wrapper around [curl](https://curl.haxx.se/) that:
   2. Checks to make sure the header returned useful information
   3. Takes that useful header information and formats it in a way that is easy to understand.
 
-### Code
+## Code
+{: .size-h3}
 ```sh
 function curl-size {
   if [[ -z $1 ]]; then
@@ -80,8 +81,8 @@ function curl-size {
 }
 ```
 
-### In Use
-
+## In Use
+{: .size-h3}
 Using it for it's original purpose...
 ![curl-sizing an image]({{ "/assets/post-files/2019-04-25-curling-for-size/curl-size-image.png" | relative_url }})
 

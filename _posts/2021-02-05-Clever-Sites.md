@@ -60,7 +60,7 @@ If you look at the code behind SVGs that are created using design tools like Pho
 That's where OMG-SVG comes in. Created by the always entertaining [Jake Archibald](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAKIQFsNbV0JDws_G_bnNo9), it takes the SVG optimizer tool [SVGO](https://github.com/jakearchibald/svgomg), that would normally run as part of [build/deploy process or toolchain](https://github.com/svg/svgo#other-ways-to-use-svgo) and turns it into a web app with a simple user interface. It works really well and is completely [open-source](https://github.com/jakearchibald/svgomg).
 
 
-It's worth noting that if you're trying to [include an SVGs directly in JSX](https://www.sanity.io/guides/import-svg-files-in-react#c125367dce7c), TypeScript doesn't like you using the the style attribute <a href="https://i.imgur.com/frvYR1v.png" target="_blank">apparently</a>? OMG-SVG allows you to convert those styles to their appropriate attribute values, making them JSX safe.    
+It's worth noting that if you're trying to [include an SVGs directly in JSX](https://www.sanity.io/guides/import-svg-files-in-react#c125367dce7c), TypeScript doesn't like you using the the style attribute <a href="https://i.imgur.com/frvYR1v.png" target="_blank" rel="noopener">apparently</a>? OMG-SVG allows you to convert those styles to their appropriate attribute values, making them JSX safe.    
 
 
 
