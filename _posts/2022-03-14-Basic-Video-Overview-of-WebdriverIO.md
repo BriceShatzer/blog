@@ -2,6 +2,7 @@
 layout: post
 title:  "Basic Video Overview of Webdriver.IO"
 date:   2022-03-11 12:00:00 -0500
+permalink: "/2022-03-11-Basic-Video-Overview-of-WebdriverIO"
 categories: development
 tags: testing javascript Webdriver WebdriverIO e2e Grainger Next.js React
 description: "A basic video overview providing a general walk-through of Webdriver.IO and it's implementation in Grainger's Next.js/React Starter Kit."

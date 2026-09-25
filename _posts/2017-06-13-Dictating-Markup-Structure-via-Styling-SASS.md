@@ -2,6 +2,7 @@
 layout: post
 title:  "Dictating Markup Structure via Styling/SASS"
 date:   2017-06-13 12:00:00 -0500
+permalink: "/2017-06-13-Dictating-Markup-Structure-via-Styling-SASS"
 categories: development
 tags: sass best-practices documentation
 description: "A response to a Stack Overflow question about sass mixins that require a particular markup structure and the idea of extending them via arguments to make it a more flexible."
