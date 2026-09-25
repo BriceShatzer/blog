@@ -1,32 +1,31 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
-ruby "3.1.7"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-# gem "jekyll", "4.2.1"
+# Single source of truth for the Ruby version: .ruby-version.
+# Read by Bundler (>= 2.3.18), rvm/rbenv/mise, and ruby/setup-ruby in CI.
+ruby file: ".ruby-version"
 
-gem "webrick", "~> 1.8"
+gem "jekyll", "~> 4.4"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-#gem "minima", "~> 2.0"
-gem  "jekyll-theme-cayman"
+# Dart Sass (sass-embedded). Jekyll 4.4 would resolve this anyway; pinned so the
+# Sass implementation is an explicit decision, not a dependency-resolution side effect.
+gem "jekyll-sass-converter", "~> 3.1"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
+# Rouge 4 reclassifies JS tokens (function calls nx->nf, classes nx->nc), which the
+# Cayman/GitHub highlight theme colors differently -- that is a visible change to every
+# code block. Pinned to preserve the current rendering. Unpinning is a deliberate,
+# reviewable restyling of syntax highlighting, not a side effect of a build migration.
+gem "rouge", "~> 3.30"
 
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
-   gem "jekyll-redirect-from"
+  gem "jekyll-feed",          "~> 0.17"  # /blog/feed.xml
+  gem "jekyll-redirect-from", "~> 0.16"  # legacy category-path URLs
 end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+group :test do
+  gem "html-proofer", "~> 5.0"
+end
 
+# Windows and JRuby ship without a system zoneinfo database.
+gem "tzinfo-data", platforms: %i[windows jruby]

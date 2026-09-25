@@ -1,0 +1,86 @@
+name: Build & deploy to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; never cancel a production deploy mid-flight.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # ruby-version is omitted on purpose: setup-ruby reads .ruby-version,
+          # and BUNDLED WITH in Gemfile.lock selects the Bundler version.
+          bundler-cache: true
+          cache-version: 1
+
+      # Skipped on PRs because fork PRs do not get `pages: write`.
+      # We deliberately do NOT pass `static_site_generator: jekyll` (it rewrites
+      # _config.yml), and do NOT use steps.pages.outputs.base_path as --baseurl:
+      # `baseurl: /blog` in _config.yml is the single source of truth.
+      - name: Configure Pages
+        id: pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --trace
+
+      - name: Sanity-check the build
+        run: |
+          set -euo pipefail
+          for f in index.html feed.xml posts.html readme.html \
+                   assets/css/style.css 2024-02-22-PayPal-ThinkTwice.html; do
+            test -s "_site/$f" || { echo "MISSING: $f"; exit 1; }
+          done
+          # This repo must never ship a CNAME; the apex domain belongs to
+          # BriceShatzer/BriceShatzer.github.io.
+          test ! -e _site/CNAME || { echo "Unexpected CNAME in _site"; exit 1; }
+          n=$(find _site -name '*.html' | wc -l)
+          test "$n" -ge 20 || { echo "Only $n HTML files built"; exit 1; }
+
+      # On PRs: publish the built site as a plain artifact so it can be
+      # downloaded and diffed by hand. Nothing is deployed.
+      - name: Upload preview artifact (PR only)
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
+          retention-days: 7
+
+      - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

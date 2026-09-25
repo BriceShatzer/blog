@@ -1,45 +1,75 @@
-# Welcome to Jekyll!
-#
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# ---------------------------------------------------------------------------
+# Site
+# ---------------------------------------------------------------------------
 title: BriceShatzer.com/blog
 email: brice.shatzer@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   The professional blog of Brice Shatzer, a Chicago-based Iowan that, until recently, was working
   on the software that powers some of the internet's favorite sites. Opinions here are my own.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-permalink: /:year-:month-:day-:title
-url: "http://BriceShatzer.com" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en-US
+
+# Scheme + host only, no trailing slash. Was "http://BriceShatzer.com"; the scheme fix
+# removes a redirect hop from every generated redirect page and from feed.xml.
+url: "https://briceshatzer.com"
+
+# This repo is a project page served from briceshatzer.com/blog/. The CNAME lives in
+# BriceShatzer/BriceShatzer.github.io -- do NOT add a CNAME file here.
+baseurl: "/blog"
+
 twitter_username: _shatzer
-github_username:  BriceShatzer
+github_username: BriceShatzer
 
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://BriceShatzer.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
+# Every post's `date:` carries an explicit -0500 offset, but site.time and the
+# feed/sitemap timestamps follow the builder's TZ. Pinning it makes a local build
+# byte-identical to a CI build (GitHub runners are UTC).
+timezone: America/Chicago
 
-
-# plugin:
-#   - jekyll-redirect-from
-
-# Build settings
+# ---------------------------------------------------------------------------
+# Build
+# ---------------------------------------------------------------------------
 markdown: kramdown
-theme:  jekyll-theme-cayman
+highlighter: rouge
+
+# Replicates what the `github-pages` gem injected server-side.
+# `default_lang: plaintext` is load-bearing: it is why un-languaged fenced code blocks
+# render as class="language-plaintext highlighter-rouge".
+kramdown:
+  input: GFM
+  hard_wrap: false
+  gfm_quirks: paragraph_end
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: plaintext
+
+# The legacy builder forced `style: compressed` in production only, which is why local
+# builds never matched the live site. Pinning it here makes them match.
+# jekyll-sass-converter 3.x is Dart Sass: only `expanded` and `compressed` exist.
+sass:
+  style: compressed
+  sourcemap: never          # 3.x defaults to :always and would emit style.css.map
+  quiet_deps: true
+  silence_deprecations:
+    - import                # vendored Cayman Sass still uses @import
+    - global-builtin        # ...and the global invert()
+    - color-functions
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - github-pages
+
+# Fallback only. Every post pins its own `permalink:`, so this governs nothing that
+# currently exists -- it just keeps `jekyll build` sane if a post is added without one.
+permalink: /:year-:month-:day-:title
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - .ruby-version
