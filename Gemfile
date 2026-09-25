@@ -19,7 +19,9 @@ gem "jekyll-sass-converter", "~> 3.1"
 gem "rouge", "~> 3.30"
 
 group :jekyll_plugins do
+  gem "jekyll-seo-tag",       "~> 2.8"   # <title>, OG, Twitter cards, canonical, JSON-LD
   gem "jekyll-feed",          "~> 0.17"  # /blog/feed.xml
+  gem "jekyll-sitemap",       "~> 1.4"   # /blog/sitemap.xml
   gem "jekyll-redirect-from", "~> 0.16"  # legacy category-path URLs
 end
 
