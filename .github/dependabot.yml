@@ -9,6 +9,12 @@ updates:
     groups:
       jekyll:
         patterns: ["*"]
+    ignore:
+      # Rouge 4 reclassifies JS tokens (function calls nx->nf, classes nx->nc) and the
+      # rouge-github theme colours those differently, restyling every code block on the
+      # site. Pinned deliberately in the Gemfile; upgrading is a design decision.
+      - dependency-name: "rouge"
+        update-types: ["version-update:semver-major"]
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
