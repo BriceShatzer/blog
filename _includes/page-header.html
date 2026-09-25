@@ -1,29 +1,15 @@
-<section class="page-header">
+<header class="page-header" role="banner">
     <div>
-        <h1 class="project-name">
-            {% if  page.landingPageTitle %}
-                {{ page.landingPageTitle }}
-            {% else %}
-                <a href="{{ "/" | relative_url }}"">{{ site.title }}</a>
-            {% endif %}
-        </h1>
-       <!--  <h2 class="project-tagline">{{ site.tagline }}</h2> -->
+        {%- if page.landingPageTitle %}
+        <h1 class="project-name">{{ page.landingPageTitle }}</h1>
+        {%- else %}
+        <p class="project-name"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+        {%- endif %}
     </div>
-    <a class="home-link" href="http://BriceShatzer.com">
-        <img src="{{ "/assets/face.png" | relative_url}}" alt="Back to BriceShatzer.com"/>
+    <a class="home-link" href="https://briceshatzer.com">
+        <img src="{{ '/assets/face.png' | relative_url }}" alt="" width="468" height="468" decoding="async">
         <span class="text">
-            <span>&laquo;</span> back to BriceShatzer.com
+            <span aria-hidden="true">&laquo;</span> back to BriceShatzer.com
         </span>
-
-       <!--  <strong><< &laquo; &Lt;</strong>  back to BriceShatzer.com</span> -->
     </a>
-
-  <!--
-  <a href="#" class="btn">View on GitHub</a>
-  <a href="#" class="btn">Download .zip</a>
-  <a href="#" class="btn">Download .tar.gz</a>
-  -->
-</section>
-{% if  page.date  %}
-  <!-- is a post -->
-{% endif %}
+</header>

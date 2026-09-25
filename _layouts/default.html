@@ -1,35 +1,22 @@
 <!DOCTYPE html>
-<html lang="en-us">
-    {% assign is_post = false %}
-
-    {% if page.date %}
-        {% assign is_post = true %}
-    {% endif %}
-
+<html lang="{{ site.lang | default: 'en-US' }}">
   {% include head.html %}
-
   <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
     {% include page-header.html %}
 
-    {% if is_post %}
-        <a class="posts-link" href="{{ "/" | relative_url }}"><span>&laquo;</span> All Posts</a>
-    {% endif %}
+    {% if page.layout == "post" %}<a class="posts-link" href="{{ '/' | relative_url }}"><span aria-hidden="true">&laquo;</span> All Posts</a>{% endif %}
 
-    <section class="main-content">
+    <main id="content" class="main-content" role="main" tabindex="-1">
       {{ content }}
 
-      {% if is_post %}
-        <a class="end-of-content posts-link" href="{{ "/" | relative_url }}"><span>&laquo;</span> All Posts</a>
+      {% if page.layout == "post" %}
+        <a class="end-of-content posts-link" href="{{ '/' | relative_url }}"><span aria-hidden="true">&laquo;</span> All Posts</a>
       {% endif %}
 
       {% include page-footer.html %}
 
-    </section>
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-55110172-1', 'auto');
-  ga('send', 'pageview');
-    </script>
-
+    </main>
   </body>
 </html>

@@ -37,6 +37,11 @@ body {
         //background-color: rgba(#333,0.75);
         background-color: rgba(#000,0.75);
     }
+    // `.project-name` is a <p> on every page except a landing page, where it is the
+    // page's real <h1>. Pin the <h1> UA default so both branches render identically.
+    .project-name {
+        font-weight: 700;
+    }
     .project-name a {
         color: #fff;
         &:hover,
@@ -55,7 +60,10 @@ body {
     align-items: center;
 
 
-    img {width: 4rem;}
+    // `height: auto` is required: the width/height attributes on the <img> are
+    // presentational hints, so without this the height="468" hint wins and the
+    // image renders 64x468. The attributes are there to reserve layout space.
+    img {width: 4rem; height: auto;}
     .text {
         padding-left: 1rem;
         opacity: 0;
@@ -119,6 +127,8 @@ body {
 
 }
 .main-content {
+    // Skip-link target: focusable only programmatically, so suppress the focus ring.
+    &:focus { outline: none; }
     max-width: 1216px;
     margin: 0 auto;
     h1,h2,h3,h4,h5,h6 {
@@ -174,10 +184,10 @@ body {
         flex-direction: column;
         //justify-content: center;
     }
-    span {
+    span, time {
         font-size: 80%;
     }
-    h3 {
+    h2 {
         font-size: 150%;
         font-weight: 700;
         line-height: 1.25;
@@ -193,7 +203,7 @@ body {
             }
         }
     }
-    h3,p {
+    h2,p {
         margin: 0;
     }
     p {margin-top: 0.5rem;}
