@@ -1,0 +1,31 @@
+# External link checking, kept out of the PR gate: third-party sites go down, rate-limit,
+# and return 403 to CI user agents, none of which should block a merge.
+name: External link check
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays, 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Build
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build
+      - name: Check external links
+        run: |
+          bundle exec htmlproofer ./_site \
+            --swap-urls "^/blog:" \
+            --allow-hash-href \
+            --no-enforce-https \
+            --ignore-status-codes "403,429,999"

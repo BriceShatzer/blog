@@ -6,7 +6,7 @@
 
     {% include page-header.html %}
 
-    {% if page.layout == "post" %}<a class="posts-link" href="{{ '/' | relative_url }}"><span aria-hidden="true">&laquo;</span> All Posts</a>{% endif %}
+    {% if page.layout == "post" %}<nav class="posts-nav" aria-label="Blog"><a class="posts-link" href="{{ '/' | relative_url }}"><span aria-hidden="true">&laquo;</span> All Posts</a></nav>{% endif %}
 
     <main id="content" class="main-content" role="main" tabindex="-1">
       {{ content }}

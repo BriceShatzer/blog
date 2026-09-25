@@ -73,6 +73,51 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
 
+  # Fast, deterministic checks gate the build. Lighthouse is report-only because it is
+  # noisy on shared runners. External link checking lives in link-check.yml on a
+  # schedule, so third-party flakiness never blocks a merge.
+  verify:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build
+
+      # --swap-urls is required, or every root-relative /blog/... link reports broken.
+      # --no-enforce-https: some post bodies still link to http:// sites; see README.
+      - name: HTML correctness + internal links
+        run: |
+          bundle exec htmlproofer ./_site \
+            --swap-urls "^/blog:" \
+            --allow-hash-href \
+            --disable-external \
+            --no-enforce-https
+
+      # Serve under /blog so baseurl-prefixed asset paths resolve.
+      - name: Serve
+        run: |
+          mkdir -p _serve && cp -r _site _serve/blog
+          npx -y http-server ./_serve -p 4000 --silent &
+          npx -y wait-on http://127.0.0.1:4000/blog/index.html
+
+      - name: axe
+        run: |
+          npx -y @axe-core/cli@4 --exit \
+            http://127.0.0.1:4000/blog/ \
+            http://127.0.0.1:4000/blog/2024-02-22-PayPal-ThinkTwice.html \
+            http://127.0.0.1:4000/blog/readme.html \
+            http://127.0.0.1:4000/blog/404.html
+
   deploy:
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
     needs: build
