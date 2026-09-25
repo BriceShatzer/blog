@@ -50,6 +50,10 @@ twitter:
 # Publisher logo for the JSON-LD Organization.
 logo: /assets/face.png
 
+# GA4 Measurement ID (Admin -> Data streams -> web stream). Not the property ID.
+# Only emitted when JEKYLL_ENV=production, so local builds don't pollute the data.
+google_analytics: G-LMML5T119W
+
 # Every post's `date:` carries an explicit -0500 offset, but site.time and the
 # feed/sitemap timestamps follow the builder's TZ. Pinning it makes a local build
 # byte-identical to a CI build (GitHub runners are UTC).
