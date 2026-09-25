@@ -73,7 +73,7 @@ jobs:
 
       - name: Upload Pages artifact
         if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
 
   # Fast, deterministic checks gate the build. Lighthouse is report-only because it is
   # noisy on shared runners. External link checking lives in link-check.yml on a
