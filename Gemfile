@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.7.2"
+ruby "3.1.7"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -10,6 +10,8 @@ ruby "2.7.2"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "4.2.1"
+
+gem "webrick", "~> 1.8"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.0"
