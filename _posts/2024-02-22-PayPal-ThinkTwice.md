@@ -2,6 +2,7 @@
 layout: post
 title:  "Think Twice: High-Stakes Change Control at PayPal"
 date:   2024-02-22 12:00:00 -0500
+permalink: "/2024-02-22-PayPal-ThinkTwice"
 categories: development
 tags: testing javascript PayPal CI/CD
 description: "PayPal experienced 971 seconds of downtime, leading to over 350,000 failed transactions and $400k in lost revenue. In response, they launched a mandatory, recurring training program for software engineers called Think Twice."

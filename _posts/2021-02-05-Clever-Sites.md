@@ -2,6 +2,7 @@
 layout: post
 title:  "Clever Sites For Developers"
 date:   2021-02-05 12:00:00 -0500
+permalink: "/2021-02-05-Clever-Sites"
 categories: development
 tags: front-end javascript css design
 description: "A collection of sites I've found useful over the course of my career."

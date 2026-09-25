@@ -5,6 +5,7 @@ redirect_from:
     - /development/javascript/jwplayer/2018/06/25/JWPlayer-Event-Reference/
     - /development/javascript/jwplayer/2018/06/25/JWPlayer-Event-Reference.html
 date:   2018-06-25 13:51:30 -0500
+permalink: "/2018-06-25-JWPlayer-Event-Reference"
 categories: development
 tags: javascript JWPlayer
 description: "A reference to all the events that can potentially fire when using JWPlayer 8."
