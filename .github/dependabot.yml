@@ -1,0 +1,15 @@
+version: 2
+updates:
+  # Grouped on purpose: ungrouped updates are what produced the stale
+  # single-gem PR (#22) that sat open from 2024.
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: monthly
+    groups:
+      jekyll:
+        patterns: ["*"]
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
