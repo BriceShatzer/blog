@@ -65,7 +65,7 @@ jobs:
       # downloaded and diffed by hand. Nothing is deployed.
       - name: Upload preview artifact (PR only)
         if: github.event_name == 'pull_request'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: site-preview
           path: _site
