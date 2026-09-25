@@ -137,6 +137,9 @@ body {
     .size-h1 { font-size: 2em; }
     .size-h2 { font-size: 1.5em; }
     .size-h3 { font-size: 1.17em; }
+
+    // Was an inline style on brice-readme.md's <h1>; same values, now in the stylesheet.
+    .readme-title { text-align: center; font-size: 3em; }
     max-width: 1216px;
     margin: 0 auto;
     h1,h2,h3,h4,h5,h6 {

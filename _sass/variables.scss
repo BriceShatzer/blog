@@ -11,7 +11,11 @@ $header-bg-color-secondary: #155799 !default;
 $section-headings-color: #159957 !default;
 $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
+// Darkened from Cayman's #819198, which is 2.91:1 on the #f2f2f2 body background and
+// fails WCAG AA (needs 4.5:1). Same hue (198deg) and saturation, lightness 55% -> 42%,
+// giving 4.65:1. Kept marginally lighter than $body-text-color (4.83:1) so blockquotes
+// and the footer credits stay visually de-emphasised.
+$blockquote-text-color: #606f76 !default;
 
 // Code
 $code-bg-color: #f3f6fa !default;
