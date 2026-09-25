@@ -16,7 +16,7 @@ gem "jekyll-sass-converter", "~> 3.1"
 # Cayman/GitHub highlight theme colors differently -- that is a visible change to every
 # code block. Pinned to preserve the current rendering. Unpinning is a deliberate,
 # reviewable restyling of syntax highlighting, not a side effect of a build migration.
-gem "rouge", "~> 3.30"
+gem "rouge", "~> 4.7"
 
 group :jekyll_plugins do
   gem "jekyll-seo-tag",       "~> 2.8"   # <title>, OG, Twitter cards, canonical, JSON-LD
