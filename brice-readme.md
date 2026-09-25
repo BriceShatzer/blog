@@ -4,10 +4,11 @@ title: Brice Shatzer - Readme
 permalink: /readme.html
 ---
 
-<h1 style="text-align: center;font-size:3em">README for Brice Shatzer</h1>
+<h1 class="readme-title">README for Brice Shatzer</h1>
 
 
-# What is this? 
+## What is this?
+{: .size-h1}
 
 While a part of a team working on [some of the best sites in the world](https://en.wikipedia.org/wiki/G/O_Media), our amazing and talented project manager [Caiti Vincel](https://www.linkedin.com/in/caitistout/) suggested that we each put together a "README" document. Basically, a user manual about how we as individuals prefer to work and communicate, and just generally what makes us tick.
 
@@ -16,12 +17,14 @@ While a part of a team working on [some of the best sites in the world](https://
 Below you will find my version. This document is intended to be an ever-evolving work that will grow and change as I *(hopefully)* grow and change as a person throughout my career. 
 
 
-# Backstory... 
+## Backstory...
+{: .size-h1}
 I grew up in [small-town Iowa](https://en.wikipedia.org/wiki/Hudson,_Iowa) and after spending 12 years with the same [56 kids](https://i.imgur.com/5w5boDs.jpg), I decided to head out of state for my degree, attending [Carthage College](https://www.carthage.edu/about/) in Kenosha, Wisconsin. There I played [soccer](https://athletics.carthage.edu/sports/mens-soccer), wrote for the school paper, and was active in [Greek life](https://www.tke.org/about), before finally receiving a BA in Communication/Digital Media. 
 
 Currently, I live in [Chicago](https://www.google.com/maps/place/200+W+Grand+Ave,+Chicago,+IL+60654/@41.8916151,-87.634402,3a,75y,351.45h,118.43t/data=!3m6!1e1!3m4!1ssrlwwXdQDBlur7qz4UjZAw!2e0!7i16384!8i8192!4m5!3m4!1s0x880e2cb46a543025:0xfe3a73791db677c0!8m2!3d41.8918775!4d-87.6344475) with [my two adorable puppies](https://photos.app.goo.gl/9LVmjXLRVHGwaL5DA) and enjoy spending time watching/reading stuff, caring waaay to much about a [mediocre soccer team](https://www.chicagofirefc.com/), & occasionally playing [video games](https://steamcommunity.com/id/briceshatzer/) & [cards](https://en.wikipedia.org/wiki/Magic:_The_Gathering). 
 
-# Working Hours  
+## Working Hours
+{: .size-h1}
 
 I usually engage with work from around [10am](https://tinyurl.com/ybejrns7) until [6pm](https://tinyurl.com/y76bync5).  
 
@@ -30,13 +33,16 @@ I find that I'm more productive when I'm physically in the office. This, coupled
 Outside of usual work hours, I'm usually reachable on Slack via DM most of the time but don't make it a point to check email or channels without a compelling reason.
 
 
-# Communication
+## Communication
+{: .size-h1}
 
-## A General Note
+### A General Note
+{: .size-h2}
 
 Historically, there have been a few instances where I have lacked a degree of emotional intelligence. This has manifested in inadvertently saying or acting in a way that was far more abrasive or biting than I had intended. Thankful this hasn't really been an issue in recent years, but if I ever do or say anything that makes you feel uncomfortable or is negatively impacting you, *please* tell me. Preferably like [this](#feedback).
 
-## Methods  
+### Methods
+{: .size-h2}
 
 **One-to-Many**  
 While I'm not particularly uncomfortable giving oral presentations, I feel I'm far more effective at disseminating information via written forms of communication like documentation or a CCed email.  
@@ -48,7 +54,8 @@ I know I can occasionally become a bit ramble-ly, so I generally prefer written 
 The downside to preferring slack/email is that I tend to become [somewhat myopic](https://www.additudemag.com/understanding-adhd-hyperfocus/) when I'm working on something. This means that I can occasionally go quite some time between consciously checking email or slack. With that in mind, if there is a discussion in a channel pertaining to something you want my input on/feel I should be aware of please, please DM or @me
 
 
-## Feedback 
+### Feedback
+{: .size-h2}
 
 **Receiving:**  
 I understand and appreciate the desire of those delivering critical feedback to want to mitigate any distress that sometimes can occur with those conversations, but I almost universally find myself wishing they would be more frank and direct in those moments.  
@@ -62,12 +69,14 @@ I generally haven't provide feedback about/to others unless explicitly prompted 
 
 
 
-# Career Goals  
+## Career Goals
+{: .size-h1}
 My oldest professional motivation and one of my greatest fears is becoming a [code monkey](https://en.wikipedia.org/wiki/Code_monkey) that simply acts as an unthinking tool that takes in specs and spits out code. 
 
 As I've progressed in my career I've found that mentoring and working with others has been some of the most rewarding things that I've done and I've come to appreciate the more administrative and organizational side of software development. That being said, it's probably not very surprising that I want my career to head in the general direction of managing engineers and engineering teams.   
 
-# What makes me tick...  
+## What makes me tick...
+{: .size-h1}
 
 I deeply value learning and if [all learning is remembering](https://philosophy.stackexchange.com/questions/45599/origin-of-proverb-all-learning-is-remembering), it's probably not surprising that I absolutely adore documentation and think that it is [criminally under utilized](https://twitter.com/patio11/status/1014748989806145536).  
 
@@ -80,6 +89,7 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
 
 
 ### ...I'm a Miranda
+{: .size-h3}
 
 
 <table border="0" align="center">
@@ -135,7 +145,8 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
 
 <br />
 
-# All the places to find me online
+## All the places to find me online
+{: .size-h1}
 <section style="display: flex; justify-content: space-around">
 <!-- <section style="">  -->
   <a href="https://briceshatzer.com" target="_blank" rel="noopener">
