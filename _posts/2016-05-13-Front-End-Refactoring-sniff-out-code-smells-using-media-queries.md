@@ -21,8 +21,8 @@ The likelihood of confronting this sort of monstrosity is never higher than when
 
 One solution to this apprehension is to audit the style sheet's media queries. This sort of analysis is an easy way to see where potential issues and low-hanging fruit might exist. This provides a clear starting place for any refactoring work and helps make a seemingly herculean task into something much more palatable. Best of all, this discovery and documentation process can be automated using JavaScript.
 
-### What Are We Doing?
-
+## What Are We Doing?
+{: .size-h3}
 So what exactly will be happening?
 
 *   Pick a target [style sheet](https://developer.mozilla.org/en-US/docs/Web/API/Document/styleSheets) and get its [cssRuleList](https://developer.mozilla.org/en-US/docs/Web/API/CSSRuleList)  
@@ -34,7 +34,8 @@ _Note: Keep in mind that style sheets are subject to the [same-origin policy](ht
     *   add all `cssRules` found within this particular instance of the media query to the entry in the `mediaQueriesMap` variable
 *   Finally we format `mediaQueriesMap` into a table and print it in the console.
 
-### Code
+## Code
+{: .size-h3}
 ```javascript
     var mediaQueriesMap = new Map();
 
@@ -95,8 +96,8 @@ _Note: Keep in mind that style sheets are subject to the [same-origin policy](ht
 ```
 
 
-### Analyzing The Results
-
+## Analyzing The Results
+{: .size-h3}
 What do we do with this data? The general idea is to look for things that that seem [different](https://youtu.be/ueZ6tvqhk8U?t=20s) or stand out. [Developers are creatures of habit](https://www.safaribooksonline.com/a/the-software-craftsman/70409/), so if something seems inconsistent, peculiar, or out-of-place, it's likely that it was written by a different developer, or under different circumstances. These are the places we want to initially focus on, as they are more likely yield potential refactoring opportunities. At the very least they can be brought into alignment with the rest of the codebase to help make everything more maintainable going forward.  
 
 Specifically, we're on the looking for things like:
@@ -118,8 +119,8 @@ The next point of interest involves #17 (`"screen and (max-width: 770px)"`). Bey
 
 Finally, #20 (`"screen and (min-width: 768px)"`) appears to be overlapping with some media queries that are set to use `"max-width: 768px"` ( #16 & #19). It's no accident that CSS frameworks define their breakpoints in a consistent manor that prevents overlap (e.g. [Bootstrap](https://github.com/twbs/bootstrap/blob/master/less/variables.less#L314) & [Foundation](http://foundation.zurb.com/sites/docs/media-queries.html#copy-btn-0)), so when there are multiple definitions checking a particular [media feature](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#Media_features) for an identical value but with opposing prefixes, it is something that should be investigated. Perhaps it's just a simple inconsistency in how a particular breakpoint was authored, but there is also a possibility of a huge issue where multiple elements are getting conflicting styling instructions when the width is 768px.
 
-### Broadening Your Horizons
-
+## Broadening Your Horizons
+{: .size-h3}
 The `mediaQueriesMap` map that is created is fairly flexible. In addition to creating a general overview, it can be used to drill into specific media queries. In the prior example we can see that the media query `screen and (max-width: 1000px)` is being used in the style sheet 13 different times to declare 13 different rules. Using our existing `mediaQueriesMap` variable we can see what [selectors](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleRule#selectorText) are being used for each of those rules.
 
 ```javascript  

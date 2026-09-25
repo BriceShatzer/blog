@@ -1,18 +1,17 @@
 ---
 title: List of all posts
 permalink: /posts
+layout: null
+sitemap: false
+noindex: true
+# Consumed by https://briceshatzer.com/ -- see the fetch('.../blog/posts') call in the
+# BriceShatzer.github.io repo, which does JSON.parse then posts.slice(0,4) and reads
+# obj.date / obj.url / obj.title / obj.description. The URL, the `date` string format,
+# and those four field names are load-bearing. Do not rename them without shipping
+# BriceShatzer.github.io first.
+#
+# Every string goes through | jsonify, which emits its own quotes and escapes: a `"` in
+# any title or description previously produced invalid JSON, silently blanking the blog
+# section of the homepage.
 ---
-[
-  {% for post in site.posts %}
-    {
-      "date": "{{ post.date | date: '%B %d, %Y' }}",
-      "title": "{{ post.title }}",
-      "description": "{{ post.description }}",
-      "tags": {{ post.tags | jsonify }},
-      "categories": {{ post.categories | jsonify }},
-      "url": "https://briceshatzer.com/blog{{ post.url }}",
-      "slug": "{{ post.slug }}"
-    }
-    {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
+[{% assign posts = site.posts | sort: "sort_date" | reverse %}{% for post in posts %}{% if forloop.index0 > 0 %},{% endif %}{"date":{{ post.date | date: '%B %d, %Y' | jsonify }},"date_iso":{{ post.date | date_to_xmlschema | jsonify }},"updated":{% if post.last_modified_at %}{{ post.last_modified_at | date: '%B %d, %Y' | jsonify }}{% else %}null{% endif %},"title":{{ post.title | jsonify }},"description":{{ post.description | strip | jsonify }},"tags":{{ post.tags | jsonify }},"categories":{{ post.categories | jsonify }},"url":{{ post.url | absolute_url | jsonify }},"slug":{{ post.slug | jsonify }}}{% endfor %}]

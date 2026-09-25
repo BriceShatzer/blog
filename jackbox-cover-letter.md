@@ -33,7 +33,7 @@ I'm excited to hopefully have a conversation about what I could potentially brin
 <p style="overflow: hidden;">
     Thanks,<br />  
     Brice Shatzer <br />
-<img src="/blog/assets/page-files/sig_png.png" width="200px" style="float:left" alt="Signature of Brice Shatzer" />
+<img src="{{ "/assets/page-files/sig_png.png" | relative_url }}" width="200px" style="float:left" alt="Signature of Brice Shatzer" />
 </p>
 
 
@@ -44,24 +44,24 @@ I'm excited to hopefully have a conversation about what I could potentially brin
 <section style="display: flex; justify-content: space-around">
 <!-- <section style="">  -->
   <a href="http://briceshatzer.com" target="_blank" rel="noopener">
-    <img src="/blog/assets/page-files/globe.png" width="50px" alt="briceshatzer.com" />
+    <img src="{{ "/assets/page-files/globe.png" | relative_url }}" width="50px" alt="briceshatzer.com" />
   </a>&nbsp;
   <a href="http://www.linkedin.com/pub/brice-shatzer/16/690/b26/" target="_blank" rel="noopener noreferrer">
-    <img src="/blog/assets/page-files/linkedin.svg" width="50px" alt="LinkedIn" />
+    <img src="{{ "/assets/page-files/linkedin.svg" | relative_url }}" width="50px" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://twitter.com/_shatzer" target="_blank" rel="noopener noreferrer">
-    <img src="/blog/assets/page-files/twitter.svg" width="50px" alt="Twitter" />
+    <img src="{{ "/assets/page-files/twitter.svg" | relative_url }}" width="50px" alt="Twitter" />
   </a>&nbsp;
   <a href="https://github.com/briceshatzer" target="_blank" rel="noopener noreferrer">
-    <img src="/blog/assets/page-files/github.svg" width="50px" alt="GitHub" />
+    <img src="{{ "/assets/page-files/github.svg" | relative_url }}" width="50px" alt="GitHub" />
   </a>&nbsp;
   <a href="http://stackoverflow.com/users/1608016/brice-shatzer" target="_blank" rel="noopener noreferrer">
-    <img src="/blog/assets/page-files/stackoverflow.svg" width="50px" alt="StackOverflow" />
+    <img src="{{ "/assets/page-files/stackoverflow.svg" | relative_url }}" width="50px" alt="StackOverflow" />
   </a>&nbsp;
   <a href="http://codepen.io/BriceShatzer/" target="_blank" rel="noopener noreferrer">
-    <img src="/blog/assets/page-files/codepen.svg" width="50px" alt="CodePen" />
+    <img src="{{ "/assets/page-files/codepen.svg" | relative_url }}" width="50px" alt="CodePen" />
   </a>&nbsp;
   <a href="http://briceshatzer.com/blog">
-    <img src="/blog/assets/page-files/pencil.png" width="50px" alt="My Blog"/>
+    <img src="{{ "/assets/page-files/pencil.png" | relative_url }}" width="50px" alt="My Blog"/>
   </a>
 </section>

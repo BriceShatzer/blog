@@ -1,0 +1,12 @@
+---
+permalink: /robots.txt
+layout: null
+sitemap: false
+---
+# NOTE: crawlers only honour the ORIGIN-level robots.txt at
+# https://briceshatzer.com/robots.txt, which lives in the BriceShatzer.github.io
+# repo. This file is inert unless the blog ever moves to its own origin.
+User-agent: *
+Allow: /
+
+Sitemap: {{ "/sitemap.xml" | absolute_url }}

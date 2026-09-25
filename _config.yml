@@ -125,3 +125,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - .ruby-version
+  # The developer README. It has no front matter, so under the legacy builder
+  # jekyll-optional-front-matter published it at /blog/Project-README.html.
+  # Excluding it means it can never be published again.
+  - README.md

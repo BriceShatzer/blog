@@ -129,6 +129,14 @@ body {
 .main-content {
     // Skip-link target: focusable only programmatically, so suppress the focus ring.
     &:focus { outline: none; }
+
+    // Display-level utilities. Let a heading carry its correct *semantic* level while
+    // keeping the size it has always rendered at. Values are the UA defaults these
+    // headings inherit today. .main-content .size-h* is 0-2-0, which beats normalize's
+    // bare `h1` (0-0-1) and every UA default.
+    .size-h1 { font-size: 2em; }
+    .size-h2 { font-size: 1.5em; }
+    .size-h3 { font-size: 1.17em; }
     max-width: 1216px;
     margin: 0 auto;
     h1,h2,h3,h4,h5,h6 {
