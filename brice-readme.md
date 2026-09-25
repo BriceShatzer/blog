@@ -86,13 +86,13 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
     <tbody align="center">
     <tr>
         <td align="center">
-            <a href="https://www.wizardingworld.com/news/discover-your-hogwarts-house-on-wizarding-world" target="_blank" rel="noopener"><img src="https://i.imgur.com/FRjXHAw.png" width="150px" /></a>
+            <a href="https://www.wizardingworld.com/news/discover-your-hogwarts-house-on-wizarding-world" target="_blank" rel="noopener"><img src="https://i.imgur.com/FRjXHAw.png" width="150px" alt="Ravenclaw crest" /></a>
         </td>
         <td>
-            <a href="https://www.buzzfeed.com/lyapalater/are-you-a-carrie-samantha-charlotte-or-miranda" target="_blank" rel="noopener"><img src="https://cdn-images-1.medium.com/max/1600/1*OOJ99p7sHMIMBp3WZZVHEg.jpeg" width="150px"/> </a>
+            <a href="https://www.buzzfeed.com/lyapalater/are-you-a-carrie-samantha-charlotte-or-miranda" target="_blank" rel="noopener"><img src="https://cdn-images-1.medium.com/max/1600/1*OOJ99p7sHMIMBp3WZZVHEg.jpeg" width="150px" alt="Miranda from Sex and the City" /> </a>
         </td>        
         <td>
-            <a href="https://web.archive.org/web/20140312233740/https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-12/15/16/enhanced/webdr09/anigif_enhanced-5673-1450213488-30.gif" width="150px" /></a>
+            <a href="https://web.archive.org/web/20140312233740/https://www.buzzfeed.com/justincarissimo/which-teenage-mutant-ninja-turtles-character-are-you"><img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-12/15/16/enhanced/webdr09/anigif_enhanced-5673-1450213488-30.gif" width="150px" alt="Donatello" /></a>
         </td>
     </tr>
     <tr>
@@ -108,14 +108,14 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
     </tr>
     <tr>
         <td>
-            <a href="https://en.wikipedia.org/wiki/Gemini_(astrology)" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gemini.svg/800px-Gemini.svg.png" width="150px" /></a>
+            <a href="https://en.wikipedia.org/wiki/Gemini_(astrology)" target="_blank" rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gemini.svg/800px-Gemini.svg.png" width="150px" alt="Gemini zodiac symbol" /></a>
         </td>
         <td>
-            <a href="https://en.wikipedia.org/wiki/V%E1%B9%9B%E1%B9%A3abha" target="_blank" rel="noopener"><img src='https://i.imgur.com/xGqM1FG.png' width="150px"/></a>
+            <a href="https://en.wikipedia.org/wiki/V%E1%B9%9B%E1%B9%A3abha" target="_blank" rel="noopener"><img src='https://i.imgur.com/xGqM1FG.png' width="150px" alt="Taurus zodiac symbol" /></a>
         </td>
         <td>
             <a href="http://astrologyk.com/zodiac/chinese/year/1988" target="_blank" rel="noopener">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dragon.svg/230px-Dragon.svg.png" width="150px" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dragon.svg/230px-Dragon.svg.png" width="150px" alt="Chinese zodiac dragon" />
             </a>
         </td>
     </tr>
@@ -138,24 +138,24 @@ Despite it's [questionable veracity](https://youtu.be/_NQqSnkI32A), I identify s
 # All the places to find me online
 <section style="display: flex; justify-content: space-around">
 <!-- <section style="">  -->
-  <a href="http://briceshatzer.com" target="_blank" rel="noopener">
-    <img src="https://i.imgur.com/5xb1L4M.png" height="50px" />
+  <a href="https://briceshatzer.com" target="_blank" rel="noopener">
+    <img src="https://i.imgur.com/5xb1L4M.png" height="50px" alt="BriceShatzer.com" />
   </a>&nbsp;
-  <a href="http://www.linkedin.com/pub/brice-shatzer/16/690/b26/" target="_blank" rel="noopener noreferrer">
-    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath d='M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z'/%3E%3C/svg%3E"  height="50px" />
+  <a href="https://www.linkedin.com/pub/brice-shatzer/16/690/b26/" target="_blank" rel="noopener noreferrer">
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3C!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath d='M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z'/%3E%3C/svg%3E"  height="50px" alt="LinkedIn" />
   </a>&nbsp;
   <a href="https://github.com/briceshatzer" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/github.svg" height="50px" />
+    <img src="https://simpleicons.org/icons/github.svg" height="50px" alt="GitHub" />
   </a>&nbsp;
-  <a href="http://stackoverflow.com/users/1608016/brice-shatzer" target="_blank" rel="noopener noreferrer">
-    <img src="https://simpleicons.org/icons/stackoverflow.svg" height="50px" />
+  <a href="https://stackoverflow.com/users/1608016/brice-shatzer" target="_blank" rel="noopener noreferrer">
+    <img src="https://simpleicons.org/icons/stackoverflow.svg" height="50px" alt="Stack Overflow" />
   </a>&nbsp;
-  <a href="http://codepen.io/BriceShatzer/" target="_blank" rel="noopener noreferrer">
-    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath d='m502.3 159.7-234-156c-8-4.9-16.5-5-24.6 0l-234 156c-6 4-9.7 11.1-9.7 18.3v156c0 7.1 3.7 14.3 9.7 18.3l234 156c8 4.9 16.5 5 24.6 0l234-156c6-4 9.7-11.1 9.7-18.3V178c0-7.1-3.7-14.3-9.7-18.3M278 63.1 450.3 178l-76.9 51.4-95.4-63.7zm-44 0v102.6l-95.4 63.7L61.7 178zm-190 156L99.1 256 44 292.8zm190 229.7L61.7 334l76.9-51.4 95.4 63.7zM256 308l-77.7-52 77.7-52 77.7 52zm22 140.9V346.3l95.4-63.7 76.9 51.4zm190-156L412.9 256l55.1-36.9v73.7z'/%3E%3C/svg%3E" height="50px" />
+  <a href="https://codepen.io/BriceShatzer/" target="_blank" rel="noopener noreferrer">
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath d='m502.3 159.7-234-156c-8-4.9-16.5-5-24.6 0l-234 156c-6 4-9.7 11.1-9.7 18.3v156c0 7.1 3.7 14.3 9.7 18.3l234 156c8 4.9 16.5 5 24.6 0l234-156c6-4 9.7-11.1 9.7-18.3V178c0-7.1-3.7-14.3-9.7-18.3M278 63.1 450.3 178l-76.9 51.4-95.4-63.7zm-44 0v102.6l-95.4 63.7L61.7 178zm-190 156L99.1 256 44 292.8zm190 229.7L61.7 334l76.9-51.4 95.4 63.7zM256 308l-77.7-52 77.7-52 77.7 52zm22 140.9V346.3l95.4-63.7 76.9 51.4zm190-156L412.9 256l55.1-36.9v73.7z'/%3E%3C/svg%3E" height="50px" alt="CodePen" />
     <!-- <img src="https://simpleicons.org/icons/codepen.svg" height="50px" /> -->
   </a>&nbsp;
-  <a href="http://briceshatzer.com/blog">
+  <a href="https://briceshatzer.com/blog">
 <!--        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ei-pencil.svg/512px-Ei-pencil.svg.png" width="50px" /> -->
-    <img src="https://i.imgur.com/RziGF8U.png" height="50px" />
+    <img src="https://i.imgur.com/RziGF8U.png" height="50px" alt="Blog" />
   </a>
 </section>
