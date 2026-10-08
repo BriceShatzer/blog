@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Clever Sites For Developers"
-date:   2021-02-05 12:00:00 -0500
+date:   2021-02-05 12:00:00 -0600
+last_modified_at: 2026-09-20 12:43:38 -0600
 permalink: "/2021-02-05-Clever-Sites"
 categories: development
 tags: front-end javascript css design
@@ -44,10 +45,11 @@ There are tools for [visual/design](#visual--design-things), [coding](#programme
 
 ## Visual & Design Things
 
-### [Pixlr](https://pixlr.com/e/): Photoshop for free on the internet
-Pixlr is free, runs in the browser, and accomplishes 80% to 90% of the stuff that most people would ever want to do in Photoshop. It's got layers, masking, transforms, clone stamping...literally all the things. An alternative is [Photopea](https://www.photopea.com/), which provides a lot of the same tools, but also allows you to open native file types like `.psd` & `.ai`.  
+### [Photopea](https://www.photopea.com/): Photoshop for free on the internet
+Pixlr is free, runs in the browser, and accomplishes 95% to 98% of the stuff that most people would ever want to do in Photoshop. It's got layers, masking, transforms, clone stamping...literally all the things. It even allows you to open native file types like `.psd` & `.ai`.  
+An alternative I've used for awhile is [Pixlr](https://pixlr.com/e/), which provides a lot of the same tools, but limits you to 3 exports per day.
 
-![Pixlr editor]({{ "/assets/post-files/2021-02-05-Clever-Sites/pixlr.jpg" | relative_url }})
+![Pixlr editor]({{ "/assets/post-files/2021-02-05-Clever-Sites/photopea.png" | relative_url }})
 
 ### [Boxy SVG](https://boxy-svg.com/): Free online SVG editor
 Boxy SVG is a free, easy to use, and pretty robust SVG editor. You do have to create an account to export or save anything, but it does allow you to generate alternative file types (png,jpg,etc). It also includes a really neat generator feature that allows you to create valid barcodes & QR codes, jigsaw puzzle templates, parliament charts, or printing marks. 

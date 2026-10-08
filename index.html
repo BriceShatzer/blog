@@ -10,7 +10,21 @@ title: BriceShatzer.com/blog
     {% for post in posts %}
       <li>
         <article>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %d, %Y' }}</time>{% if post.last_modified_at %}<span> &middot; Updated {{ post.last_modified_at | date: '%B %d, %Y' }}</span>{% endif %}
+
+            {% if post.last_modified_at %}
+
+            <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">
+              {{ post.last_modified_at | date: '%B %d, %Y' }}
+            </time>
+
+            {% else %}
+
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: '%B %d, %Y' }}
+            </time>
+
+            {% endif %}
+
             <h2>
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>

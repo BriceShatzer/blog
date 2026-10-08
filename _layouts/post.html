@@ -2,7 +2,16 @@
 layout: default
 ---
 <article class="post">
-  <time class="meta" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}</time>{%- if page.last_modified_at %}<span class="meta"> &middot; updated <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: '%B %d, %Y' }}</time></span>{%- endif %}
+  
+  {%- if page.last_modified_at %}
+  <span class="meta">Updated on <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: '%B %d, %Y' }}</time>
+
+
+   &middot; Originally posted     
+  </span>
+
+  {%- endif %}
+   <time class="meta" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}</time>
 
   <h1 class="post-title">{{ page.title }}</h1>
 
