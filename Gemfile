@@ -19,14 +19,14 @@ gem "jekyll-sass-converter", "~> 3.1"
 gem "rouge", "~> 3.30"
 
 group :jekyll_plugins do
-  gem "jekyll-seo-tag",       "~> 2.8"   # <title>, OG, Twitter cards, canonical, JSON-LD
-  gem "jekyll-feed",          "~> 0.17"  # /blog/feed.xml
+  gem "jekyll-seo-tag",       "~> 2.9"   # <title>, OG, Twitter cards, canonical, JSON-LD
+  gem "jekyll-feed",          "~> 0.18"  # /blog/feed.xml
   gem "jekyll-sitemap",       "~> 1.4"   # /blog/sitemap.xml
-  gem "jekyll-redirect-from", "~> 0.16"  # legacy category-path URLs
+  gem "jekyll-redirect-from", "~> 0.17"  # legacy category-path URLs
 end
 
 group :test do
-  gem "html-proofer", "~> 5.0"
+  gem "html-proofer", "~> 5.2"
 end
 
 # Windows and JRuby ship without a system zoneinfo database.
